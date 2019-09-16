@@ -1,0 +1,4634 @@
+<hotels>
+  <debug>
+    <adults>2</adults>
+    <apiauthkey_id>1819</apiauthkey_id>
+    <checkin>2018-09-25</checkin>
+    <checkout>2018-09-26</checkout>
+    <children>3</children>
+    <children>1</children>
+    <contract_slug>21792.b2b.2383</contract_slug>
+    <currency>USD</currency>
+    <exclude />
+    <format>json</format>
+    <ids />
+    <include />
+    <lang>en</lang>
+    <limit>100</limit>
+    <page>1</page>
+    <region_id>434</region_id>
+    <residency />
+    <status>200</status>
+  </debug>
+  <result>
+    <hotels>
+      <id>sofitel_legend_old_cataract_aswan</id>
+      <rates>
+        <availability_hash>s-a6671059-6a44-5b43-a291-42d9b9a7475a</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>460.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-50b78425-a175-52fc-8ede-9c5071b49cba</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>460</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>460</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>460.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-a6671059-6a44-5b43-a291-42d9b9a7475a&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>460</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>460.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>32</room_group_id>
+        <room_name>Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #standard #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Included</description>
+          <title>Breakfast Included</title>
+          <uid>401344</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-a6671059-6a44-5b43-a291-42d9b9a7475a</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>470.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-35f30908-0593-5623-8c29-9ca8094114ba</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-22T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-22T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-22T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>470</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>470</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>470.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-a6671059-6a44-5b43-a291-42d9b9a7475a&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>470</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>470.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>32</room_group_id>
+        <room_name>Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #standard #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Included</description>
+          <title>Breakfast Included</title>
+          <uid>401344</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-9d6101ab-ede0-5e34-8051-ef44a13e1a6e</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>557.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-ec67fd62-8169-5adf-a12b-810a3ce83da5</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>557</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>557</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>557.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-9d6101ab-ede0-5e34-8051-ef44a13e1a6e&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>557</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>557.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>38</room_group_id>
+        <room_name>Premium Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #prestige #private-bathroom #quadruple #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Included</description>
+          <title>Breakfast Included</title>
+          <uid>401344</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-9d6101ab-ede0-5e34-8051-ef44a13e1a6e</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>569.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-7cde114a-468b-5584-b1c3-969ce3f99326</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-22T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-22T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-22T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>569</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>569</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>569.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-9d6101ab-ede0-5e34-8051-ef44a13e1a6e&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>569</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>569.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>38</room_group_id>
+        <room_name>Premium Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #prestige #private-bathroom #quadruple #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Included</description>
+          <title>Breakfast Included</title>
+          <uid>401344</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-75021a00-9b95-55e2-8448-22d103efde65</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>626.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-3abb2d43-9f8c-5c31-94cc-6e4da2045b19</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>626</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>626</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>626.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-75021a00-9b95-55e2-8448-22d103efde65&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>626</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>626.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>32</room_group_id>
+        <room_name>Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #standard #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>401345</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-75021a00-9b95-55e2-8448-22d103efde65</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>639.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-2cff560d-a5a9-5541-8c7d-f363838e9ef8</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-22T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-22T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-22T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>639</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>639</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>639.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-75021a00-9b95-55e2-8448-22d103efde65&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>639</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>639.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>32</room_group_id>
+        <room_name>Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #standard #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>401345</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-52861a7b-5b26-57dd-ba86-c6ec802da963</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>723.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-483bf7b2-abfd-5f6c-9fd1-8281156d2917</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>723</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>723</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>723.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-52861a7b-5b26-57dd-ba86-c6ec802da963&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>723</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>723.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>38</room_group_id>
+        <room_name>Premium Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #prestige #private-bathroom #quadruple #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>401345</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-52861a7b-5b26-57dd-ba86-c6ec802da963</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>738.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-36eacbf3-647b-57c4-acff-e96fd70031d5</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-22T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-22T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-22T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>738</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>738</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>738.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-52861a7b-5b26-57dd-ba86-c6ec802da963&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>738</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>738.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>38</room_group_id>
+        <room_name>Premium Quadruple Suite</room_name>
+        <room_size />
+        <room_type_id>#any-residents #prestige #private-bathroom #quadruple #suite #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>401345</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-ed0926fb-a0e1-53e6-be62-a2b35a257e0e</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>765.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-0fa18db0-51a3-55c5-ab5d-26dcf0684287</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>765</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>765</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>765.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-ed0926fb-a0e1-53e6-be62-a2b35a257e0e&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>765</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>765.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>173</room_group_id>
+        <room_name>Double Suite with Garden View  (Double bed) (terrace)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #garden-view #private-bathroom #standard #suite #terrace</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-40ddfd00-2d38-52cf-8a4b-3731a71a4acd</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>844.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-b7af8f9b-c2b5-5270-af8d-dcf92eb829b3</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>844</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>844</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>761.00</rate_price>
+        </competitor_prices>
+        <daily_prices>844.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sofitel_legend_old_cataract_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-40ddfd00-2d38-52cf-8a4b-3731a71a4acd&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>844</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>844.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>173</room_group_id>
+        <room_name>Double Suite with Garden View  (Double bed) (terrace)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #garden-view #private-bathroom #standard #suite #terrace</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300.00079992</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>pyramisa_isis_island_aswan_resort__spa</id>
+      <rates>
+        <availability_hash>s-733546bf-dbe5-5767-8251-f06ab392209a</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>138.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-213ee458-497d-55ca-9716-876eb3ee4cd4</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>138</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>138</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>147.47</rate_price>
+        </competitor_prices>
+        <daily_prices>138.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/pyramisa_isis_island_aswan_resort__spa/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-733546bf-dbe5-5767-8251-f06ab392209a&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>138</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>138.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>166</room_group_id>
+        <room_name>Double Junior Suite (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #junior-suite #private-bathroom #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-733546bf-dbe5-5767-8251-f06ab392209a</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>141.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-708d6ed3-5278-55d0-96bd-bdb67f641f4e</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>141</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>141</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>147.47</rate_price>
+        </competitor_prices>
+        <daily_prices>141.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/pyramisa_isis_island_aswan_resort__spa/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-733546bf-dbe5-5767-8251-f06ab392209a&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>141</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>141.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>166</room_group_id>
+        <room_name>Double Junior Suite (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #junior-suite #private-bathroom #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-7d0799f2-dd48-5fbb-af39-4d29563ccb50</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>157.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-a282c596-feba-5843-9333-6bf86098894b</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>157</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>157</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>147.47</rate_price>
+        </competitor_prices>
+        <daily_prices>157.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/pyramisa_isis_island_aswan_resort__spa/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-7d0799f2-dd48-5fbb-af39-4d29563ccb50&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>157</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>157.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>166</room_group_id>
+        <room_name>Double Junior Suite (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #junior-suite #private-bathroom #standard #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>178247</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-7d0799f2-dd48-5fbb-af39-4d29563ccb50</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>160.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-08477860-5dbe-5c57-a6b0-cf5a767992f2</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>160</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>160</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>147.47</rate_price>
+        </competitor_prices>
+        <daily_prices>160.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/pyramisa_isis_island_aswan_resort__spa/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-7d0799f2-dd48-5fbb-af39-4d29563ccb50&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>160</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>160.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>166</room_group_id>
+        <room_name>Double Junior Suite (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #junior-suite #private-bathroom #standard #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>178247</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300.0007579242</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>orchida_st_george_hotel</id>
+      <rates>
+        <availability_hash>s-316e21c9-97f4-5328-8d98-7c825fbff93b</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>59.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-aee47bc3-51d8-56ce-a0e2-88a0b261559c</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>59</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>59</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>60.01</rate_price>
+        </competitor_prices>
+        <daily_prices>59.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/orchida_st_george_hotel/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-316e21c9-97f4-5328-8d98-7c825fbff93b&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>59</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>59.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>99</room_group_id>
+        <room_name>Standard Quadruple Family Room with River View </room_name>
+        <room_size />
+        <room_type_id>#any-residents #family #private-bathroom #quadruple #river-view #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-316e21c9-97f4-5328-8d98-7c825fbff93b</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>60.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-a99b39c4-5634-52f6-b0e1-963e2a76833c</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>60</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>60</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>60.01</rate_price>
+        </competitor_prices>
+        <daily_prices>60.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/orchida_st_george_hotel/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-316e21c9-97f4-5328-8d98-7c825fbff93b&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>60</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>60.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>99</room_group_id>
+        <room_name>Standard Quadruple Family Room with River View </room_name>
+        <room_size />
+        <room_type_id>#any-residents #family #private-bathroom #quadruple #river-view #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300.0007069293</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>sehel_house</id>
+      <rates>
+        <availability_hash>s-38499206-2786-536a-a46a-db4d86bc7e41</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>41.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-666b9375-a02c-5a93-974d-37583d52d43d</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>41</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>41</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>45.00</rate_price>
+        </competitor_prices>
+        <daily_prices>41.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sehel_house/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-38499206-2786-536a-a46a-db4d86bc7e41&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>41</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>41.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>11</room_group_id>
+        <room_name>Standard Triple Room with River View  (extra-bed, smoking)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #river-view #room #standard #triple #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-38499206-2786-536a-a46a-db4d86bc7e41</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>42.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-224b3046-8ae0-56d0-8b0a-261bf981dd1c</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>42</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>42</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>45.00</rate_price>
+        </competitor_prices>
+        <daily_prices>42.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sehel_house/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-38499206-2786-536a-a46a-db4d86bc7e41&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>42</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>42.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>11</room_group_id>
+        <room_name>Standard Triple Room with River View  (extra-bed, smoking)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #river-view #room #standard #triple #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-6bdce44c-6580-5e77-b708-8957dac26600</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>50.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-05fd922e-86cb-587b-9e4a-9b8882725ba0</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>50</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>50</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>45.00</rate_price>
+        </competitor_prices>
+        <daily_prices>50.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sehel_house/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-6bdce44c-6580-5e77-b708-8957dac26600&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>50</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>50.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>99</room_group_id>
+        <room_name>Standard Quadruple Family Room with Garden View  (smoking, extra-bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #family #garden-view #private-bathroom #quadruple #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-6bdce44c-6580-5e77-b708-8957dac26600</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>52.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-b4ec7d85-c848-5c03-a77a-f1d60f9a5a59</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>52</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>52</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>45.00</rate_price>
+        </competitor_prices>
+        <daily_prices>52.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/sehel_house/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-6bdce44c-6580-5e77-b708-8957dac26600&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>52</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>52.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>99</room_group_id>
+        <room_name>Standard Quadruple Family Room with Garden View  (smoking, extra-bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #family #garden-view #private-bathroom #quadruple #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300.0003959604</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>movenpick_resort_aswan</id>
+      <rates>
+        <availability_hash>s-eb5b8ca2-9bc3-5d98-b394-e2dd949e2847</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>112.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-d498aa3d-e481-56af-a50e-65414e043710</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>112</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>112</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>112.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-eb5b8ca2-9bc3-5d98-b394-e2dd949e2847&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>112</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>112.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>91</room_group_id>
+        <room_name>Standard Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #standard #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-eb5b8ca2-9bc3-5d98-b394-e2dd949e2847</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>114.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-01f577ba-202b-5321-8c90-811133a6bba1</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>114</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>114</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>114.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-eb5b8ca2-9bc3-5d98-b394-e2dd949e2847&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>114</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>114.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>91</room_group_id>
+        <room_name>Standard Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #standard #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-27ed6402-12f1-5fc7-8b2e-ed4b3f2a60a5</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>145.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-9955b1eb-859f-5c11-a24f-daee4d498fee</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>145</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>145</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>145.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-27ed6402-12f1-5fc7-8b2e-ed4b3f2a60a5&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>145</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>145.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>124</room_group_id>
+        <room_name>Superior Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #superior #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-27ed6402-12f1-5fc7-8b2e-ed4b3f2a60a5</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>148.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-0eede5c2-33b3-5ef6-8b1a-9bd3fa9f2278</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>148</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>148</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>148.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-27ed6402-12f1-5fc7-8b2e-ed4b3f2a60a5&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>148</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>148.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>124</room_group_id>
+        <room_name>Superior Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #superior #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-a468005e-2694-5e7e-ae15-312be7b8fef2</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>156.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-17a88ad4-3c61-5db7-aa6e-38b88096a38e</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>156</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>156</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>156.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-a468005e-2694-5e7e-ae15-312be7b8fef2&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>156</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>156.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>91</room_group_id>
+        <room_name>Standard Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #half-board #private-bathroom #room #standard #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-a468005e-2694-5e7e-ae15-312be7b8fef2</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>160.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-b155d733-cd2a-5264-a061-ccd04d7c6caf</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>160</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>160</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>160.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-a468005e-2694-5e7e-ae15-312be7b8fef2&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>160</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>160.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>91</room_group_id>
+        <room_name>Standard Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #half-board #private-bathroom #room #standard #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-4483367f-afa5-528a-9dc3-1c3f680d57f0</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>190.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-5ae745d1-3840-5430-8c14-0df22b17faa7</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>190</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>190</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>190.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-4483367f-afa5-528a-9dc3-1c3f680d57f0&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>190</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>190.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>124</room_group_id>
+        <room_name>Superior Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #half-board #private-bathroom #room #superior #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-4483367f-afa5-528a-9dc3-1c3f680d57f0</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>194.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-5ca842ee-b5c5-53b6-9c8b-d5dad1de8ba6</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>194</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>194</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>194.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-4483367f-afa5-528a-9dc3-1c3f680d57f0&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>194</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>194.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>124</room_group_id>
+        <room_name>Superior Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #half-board #private-bathroom #room #superior #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-73650221-b576-5ba4-ae1b-2525bc37d413</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>201.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-11c2b8c3-70c9-59d3-9f8e-69b7717e7482</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>201</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>201</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>201.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-73650221-b576-5ba4-ae1b-2525bc37d413&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>201</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>201.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>91</room_group_id>
+        <room_name>Standard Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #standard #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-73650221-b576-5ba4-ae1b-2525bc37d413</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>205.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-7eb10c0a-463c-5966-ae89-89bd0883860a</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>205</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>205</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>205.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-73650221-b576-5ba4-ae1b-2525bc37d413&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>205</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>205.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>91</room_group_id>
+        <room_name>Standard Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #standard #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-d2710be6-3eb6-58c4-bee0-b122c62b4874</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>234.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-706cb906-cef1-5051-b731-c1b226d85dee</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>234</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>234</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>234.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-d2710be6-3eb6-58c4-bee0-b122c62b4874&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>234</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>234.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>124</room_group_id>
+        <room_name>Superior Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #superior #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-d2710be6-3eb6-58c4-bee0-b122c62b4874</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>239.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-3126eb59-a044-551f-be44-f80a5ecc31f9</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>239</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>239</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>239.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-d2710be6-3eb6-58c4-bee0-b122c62b4874&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>239</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>239.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>124</room_group_id>
+        <room_name>Superior Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #superior #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-dc1d3642-3a34-53e4-a579-8d247c2a0725</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>354.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-285de226-a5df-5f04-9bea-7dbedc535bd3</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>354</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>354</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>354.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-dc1d3642-3a34-53e4-a579-8d247c2a0725&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>354</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>354.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>166</room_group_id>
+        <room_name>Double Junior Suite (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #junior-suite #private-bathroom #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-0ac79f1f-0218-5e66-a8d3-cf5f53715c48</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>354.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-14201075-fd56-56cb-ab82-35a6ad4ccaba</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>354</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>354</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>354.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-0ac79f1f-0218-5e66-a8d3-cf5f53715c48&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>354</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>354.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>167</room_group_id>
+        <room_name>Twin Junior Suite (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #junior-suite #private-bathroom #standard #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-0ac79f1f-0218-5e66-a8d3-cf5f53715c48</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>362.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-808025d2-dae2-5675-a95f-69ea1e813d59</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>362</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>362</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>362.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-0ac79f1f-0218-5e66-a8d3-cf5f53715c48&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>362</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>362.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>167</room_group_id>
+        <room_name>Twin Junior Suite (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #junior-suite #private-bathroom #standard #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-dc1d3642-3a34-53e4-a579-8d247c2a0725</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>362.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-815bdc15-089e-5c9c-814f-808b4b66ece2</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>362</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>362</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>362.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-dc1d3642-3a34-53e4-a579-8d247c2a0725&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>362</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>362.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>166</room_group_id>
+        <room_name>Double Junior Suite (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double #double-capacity #junior-suite #private-bathroom #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-953a4eb4-ce6c-5b3e-a738-e6cf597a66ac</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>823.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-b8f53e60-76b9-51f9-a68b-8b69f1e3aefc</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>823</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>823</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>823.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-953a4eb4-ce6c-5b3e-a738-e6cf597a66ac&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>823</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>823.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>22</room_group_id>
+        <room_name>Villa</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #royal #villa #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-953a4eb4-ce6c-5b3e-a738-e6cf597a66ac</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>841.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-2a2e85b1-c01f-5494-8fa6-2c3e6b18495b</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>841</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>841</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>379.76</rate_price>
+        </competitor_prices>
+        <daily_prices>841.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/movenpick_resort_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-953a4eb4-ce6c-5b3e-a738-e6cf597a66ac&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>841</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>841.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>22</room_group_id>
+        <room_name>Villa</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #royal #villa #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>basma_hotel_aswan</id>
+      <rates>
+        <availability_hash>s-2b8afa82-8754-561f-9fd1-7d5107083061</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>61.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-c8931ad9-c28b-5685-bb47-d80ad62b8ae7</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>61</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>61</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>61.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-2b8afa82-8754-561f-9fd1-7d5107083061&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>61</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>61.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>0</room_group_id>
+        <room_name>Twin Room (category assigned at check-in) (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #run-of-house #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-2b8afa82-8754-561f-9fd1-7d5107083061</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>62.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-78a343e2-e575-5cb0-af85-8dd48e3fcb40</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>62</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>62</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>62.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-2b8afa82-8754-561f-9fd1-7d5107083061&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>62</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>62.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>0</room_group_id>
+        <room_name>Twin Room (category assigned at check-in) (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #run-of-house #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-f31af12c-9de9-5b2d-9406-8154022cbe43</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>65.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-9e2f5a3c-62df-5590-be71-16744908b9da</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>65</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>65</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>65.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-f31af12c-9de9-5b2d-9406-8154022cbe43&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>65</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>65.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>131</room_group_id>
+        <room_name>Deluxe Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #private-bathroom #room #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-f31af12c-9de9-5b2d-9406-8154022cbe43</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>66.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-85da38b4-acab-5795-a8aa-ce464b8cc623</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>66</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>66</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>66.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-f31af12c-9de9-5b2d-9406-8154022cbe43&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>66</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>66.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>131</room_group_id>
+        <room_name>Deluxe Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #private-bathroom #room #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>English Breakfast</description>
+          <title>English Breakfast</title>
+          <uid>396709</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-0b564b0d-5b62-51a8-8a85-7ab03718d359</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>81.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-c0db055b-50e8-5c8c-b203-0bb37f217cfd</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>81</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>81</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>81.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-0b564b0d-5b62-51a8-8a85-7ab03718d359&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>81</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>81.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>0</room_group_id>
+        <room_name>Twin Room (category assigned at check-in) (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #half-board #private-bathroom #room #run-of-house #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-0b564b0d-5b62-51a8-8a85-7ab03718d359</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>82.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-07d88600-7fe0-53ff-b100-36fc1d8b8e57</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>82</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>82</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>82.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-0b564b0d-5b62-51a8-8a85-7ab03718d359&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>82</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>82.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>0</room_group_id>
+        <room_name>Twin Room (category assigned at check-in) (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #half-board #private-bathroom #room #run-of-house #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-abb1b5ab-56dc-56ae-bac1-852a12cb6011</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>85.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-96ee4e40-6b4a-5f58-864b-1ffc62de36b8</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>85</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>85</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>85.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-abb1b5ab-56dc-56ae-bac1-852a12cb6011&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>85</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>85.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>131</room_group_id>
+        <room_name>Deluxe Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #half-board #private-bathroom #room #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-abb1b5ab-56dc-56ae-bac1-852a12cb6011</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>87.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-ebf3783e-28f0-57d8-b872-cead92bb1342</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>87</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>87</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>87.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-abb1b5ab-56dc-56ae-bac1-852a12cb6011&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>87</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>87.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>131</room_group_id>
+        <room_name>Deluxe Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #half-board #private-bathroom #room #twin #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+      </rates>
+      <rates>
+        <availability_hash>s-9eda73d5-04e7-521e-b41c-b57b3d4788b3</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>92.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-92fe51c9-f92f-580f-9a8d-0011e1bf51df</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>92</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>92</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>92.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-9eda73d5-04e7-521e-b41c-b57b3d4788b3&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>92</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>92.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>130</room_group_id>
+        <room_name>Deluxe Double Room with River View  (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #double-or-twin #private-bathroom #river-view #room #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-9eda73d5-04e7-521e-b41c-b57b3d4788b3</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>94.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-03869d59-1c72-576b-bcac-242cfb71ef8e</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-23T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-23T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-23T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>94</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>94</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>94.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-9eda73d5-04e7-521e-b41c-b57b3d4788b3&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast-buffet</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>94</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>94.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>130</room_group_id>
+        <room_name>Deluxe Double Room with River View  (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #double-or-twin #private-bathroom #river-view #room #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast Buffet</description>
+          <title>Breakfast Buffet</title>
+          <uid>178246</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-314a3d54-5abe-580c-99cf-3871e58d4990</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>101.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-1e61fb10-f44e-5f96-ae34-8a1486b18ba4</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>101</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>101</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>101.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-314a3d54-5abe-580c-99cf-3871e58d4990&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>101</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>101.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>130</room_group_id>
+        <room_name>Deluxe Double Room with River View  (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #double-or-twin #private-bathroom #river-view #room #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>178247</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-314a3d54-5abe-580c-99cf-3871e58d4990</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>103.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-b773f08e-b9af-5a3f-887e-49990bdad216</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-23T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-23T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-23T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>103</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>103</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>103.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-314a3d54-5abe-580c-99cf-3871e58d4990&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>half-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>103</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>103.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>130</room_group_id>
+        <room_name>Deluxe Double Room with River View  (Double bed)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #double-or-twin #private-bathroom #river-view #room #window</room_type_id>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Half Board</description>
+          <title>Half Board</title>
+          <uid>178247</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-b0eb1e4b-6ea9-5ba9-bee7-d35a064867d8</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>103.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-616d4770-c17e-5e3c-bbfa-3717238ef1ec</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>103</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>103</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>103.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-b0eb1e4b-6ea9-5ba9-bee7-d35a064867d8&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>103</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>103.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>0</room_group_id>
+        <room_name>Twin Room (category assigned at check-in) (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #run-of-house #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-b0eb1e4b-6ea9-5ba9-bee7-d35a064867d8</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>105.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-1502302b-5725-5f83-8e89-0f94a025078c</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>105</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>105</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>105.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-b0eb1e4b-6ea9-5ba9-bee7-d35a064867d8&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>105</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>105.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>0</room_group_id>
+        <room_name>Twin Room (category assigned at check-in) (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #double-capacity #private-bathroom #room #run-of-house #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-0e0df515-2fb4-5b25-aab6-8e7e8932fd6c</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>107.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-c4e5344e-24bc-58cd-a963-372e9933d23f</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>107</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>107</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>107.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-0e0df515-2fb4-5b25-aab6-8e7e8932fd6c&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>107</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>107.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>131</room_group_id>
+        <room_name>Deluxe Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #private-bathroom #room #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-0e0df515-2fb4-5b25-aab6-8e7e8932fd6c</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>110.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-bcedfa29-0da6-594c-9903-aa763286ff4c</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-17T16:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-17T16:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-17T16:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>110</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>110</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>94.99</rate_price>
+        </competitor_prices>
+        <daily_prices>110.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/basma_hotel_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-0e0df515-2fb4-5b25-aab6-8e7e8932fd6c&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>full-board</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>110</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>110.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>131</room_group_id>
+        <room_name>Deluxe Twin Room (2 twin beds)</room_name>
+        <room_size />
+        <room_type_id>#any-residents #deluxe #double-capacity #private-bathroom #room #twin #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Board</description>
+          <title>Full Board</title>
+          <uid>396712</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>keylany_hotel</id>
+      <rates>
+        <availability_hash>s-5311db85-adb3-568f-8612-71330e2343a5</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>47.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-2312cb53-703a-5811-b8b0-1615420fe8fd</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>47</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>47</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>50.00</rate_price>
+        </competitor_prices>
+        <daily_prices>47.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/keylany_hotel/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-5311db85-adb3-568f-8612-71330e2343a5&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>47</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>47.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>11</room_group_id>
+        <room_name>Standard Quadruple Room</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Breakfast</description>
+          <title>Full Breakfast</title>
+          <uid>202580</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-5311db85-adb3-568f-8612-71330e2343a5</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>48.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-dce23e8c-b16e-5c30-8640-fc5dca454e20</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>48</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>48</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>50.00</rate_price>
+        </competitor_prices>
+        <daily_prices>48.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/keylany_hotel/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-5311db85-adb3-568f-8612-71330e2343a5&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>48</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>48.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>11</room_group_id>
+        <room_name>Standard Quadruple Room</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Full Breakfast</description>
+          <title>Full Breakfast</title>
+          <uid>202580</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>taharka_nubian_house_aswan</id>
+      <rates>
+        <availability_hash>s-294cbebe-75ae-5205-b187-60b14f07f15b</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>25.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-33df294d-44c8-50a5-b7b2-fe8b52402954</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-24T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-24T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-24T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>25</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>25</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>25.00</rate_price>
+        </competitor_prices>
+        <daily_prices>25.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/taharka_nubian_house_aswan/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-294cbebe-75ae-5205-b187-60b14f07f15b&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>25</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>25.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>17</room_group_id>
+        <room_name>Villa with 2 rooms and River View</room_name>
+        <room_size />
+        <room_type_id>#2-bedrooms #any-residents #comfort #house #private-bathroom #river-view #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Breakfast </description>
+          <title>Breakfast </title>
+          <uid>178249</uid>
+        </value_adds>
+      </rates>
+      <sort_score>300</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <hotels>
+      <id>hadouta_masreya_nubian_guest_house</id>
+      <rates>
+        <availability_hash>s-c1145bbf-093a-57a1-b725-8cf203c9d6b4</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>100.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-47937ece-252f-508e-bf1b-6a6fd5bf9411</book_hash>
+        <cancellation_info>
+          <free_cancellation_before />
+          <policies>
+            <start_at />
+            <end_at />
+            <penalty>
+              <amount>100</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>100</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>105.00</rate_price>
+        </competitor_prices>
+        <daily_prices>100.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/hadouta_masreya_nubian_guest_house/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-c1145bbf-093a-57a1-b725-8cf203c9d6b4&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>100</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>100.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>11</room_group_id>
+        <room_name>Standard Quadruple Room</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <rates>
+        <availability_hash>s-c1145bbf-093a-57a1-b725-8cf203c9d6b4</availability_hash>
+        <available_rooms />
+        <b2b_recommended_price>102.00</b2b_recommended_price>
+        <bed_places>
+          <child_cot_count>0</child_cot_count>
+          <extra_count>0</extra_count>
+          <main_count>4</main_count>
+          <shared_with_children_count>0</shared_with_children_count>
+        </bed_places>
+        <book_hash>h-f56def5b-4cfc-5a2d-8fb5-cf265817a2d3</book_hash>
+        <cancellation_info>
+          <free_cancellation_before>2018-09-18T10:00:00</free_cancellation_before>
+          <policies>
+            <start_at />
+            <end_at>2018-09-18T10:00:00</end_at>
+            <penalty>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>0</amount>
+              <percent>0</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+          <policies>
+            <start_at>2018-09-18T10:00:00</start_at>
+            <end_at />
+            <penalty>
+              <amount>102</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty>
+            <penalty_in_charge>
+              <amount>102</amount>
+              <percent>100</percent>
+              <currency_code>USD</currency_code>
+              <currency_rate_to_rub>68.47</currency_rate_to_rub>
+            </penalty_in_charge>
+          </policies>
+        </cancellation_info>
+        <competitor_prices>
+          <rate_currency>USD</rate_currency>
+          <rate_price>105.00</rate_price>
+        </competitor_prices>
+        <daily_prices>102.00</daily_prices>
+        <hotelpage>https://ostrovok.ru/rooms/hadouta_masreya_nubian_guest_house/?cur=USD&amp;dates=25.09.2018-26.09.2018&amp;guests=2and3.1&amp;lang=en&amp;request_id=33158b3a594a248a38164e00e37c5d2e&amp;room=s-c1145bbf-093a-57a1-b725-8cf203c9d6b4&amp;scroll=prices&amp;utm_campaign=en-en&amp;utm_medium=api2&amp;utm_source=21792</hotelpage>
+        <meal>continental-breakfast</meal>
+        <non_refundable />
+        <payment_options>
+          <payment_types>
+            <amount>102</amount>
+            <by />
+            <currency_code>USD</currency_code>
+            <is_need_credit_card_data>false</is_need_credit_card_data>
+            <is_need_cvc>false</is_need_cvc>
+            <type>deposit</type>
+            <vat_value>0.00</vat_value>
+            <vat_included>false</vat_included>
+            <tax_data />
+          </payment_types>
+        </payment_options>
+        <rate_currency>USD</rate_currency>
+        <rate_price>102.00</rate_price>
+        <bar_rate_price_data />
+        <room_description>
+        </room_description>
+        <room_group_id>11</room_group_id>
+        <room_name>Standard Quadruple Room</room_name>
+        <room_size />
+        <room_type_id>#any-residents #private-bathroom #quadruple #room #standard #window</room_type_id>
+        <serp_filters>has_breakfast</serp_filters>
+        <serp_filters>has_bathroom</serp_filters>
+        <smoking_policies />
+        <value_adds>
+          <code>has_meal</code>
+          <description>Continental Breakfast</description>
+          <title>Continental Breakfast</title>
+          <uid>178241</uid>
+        </value_adds>
+      </rates>
+      <sort_score>100</sort_score>
+      <bar_price_data />
+      <available_rates />
+      <rate_name_min />
+      <rate_price_min />
+    </hotels>
+    <next_page>false</next_page>
+    <total_hotels>9</total_hotels>
+    <total_pages>1</total_pages>
+  </result>
+  <error />
+</hotels>

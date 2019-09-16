@@ -1,0 +1,91 @@
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\csc.exe
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\csc.exe.config
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\csc.rsp
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\csi.exe
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\csi.rsp
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\System.AppContext.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\vbc.exe
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\vbc.exe.config
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\vbc.rsp
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Veeraxml.dll.config
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Veeraxml.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Veeraxml.pdb
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Newtonsoft.Json.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\System.Net.Http.Formatting.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.WebHost.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\Newtonsoft.Json.xml
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\System.Net.Http.Formatting.xml
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.xml
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.WebHost.xml
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\obj\Release\Veeraxml.csprojResolveAssemblyReference.cache
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\obj\Release\Veeraxml.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\obj\Release\Veeraxml.pdb
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\RestSharp.dll
+C:\Users\Eternal-lap\documents\visual studio 2017\Projects\Veeraxml\Veeraxml\bin\RestSharp.xml
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\csc.exe
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\csc.exe.config
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\csc.rsp
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\csi.exe
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\csi.rsp
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\System.AppContext.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\vbc.exe
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\vbc.exe.config
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\vbc.rsp
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Veeraxml\Veeraxml\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Veeraxml\Veeraxml\bin\Veeraxml.dll.config
+E:\Projects\Veeraxml\Veeraxml\bin\Veeraxml.dll
+E:\Projects\Veeraxml\Veeraxml\bin\Veeraxml.pdb
+E:\Projects\Veeraxml\Veeraxml\bin\HtmlAgilityPack.dll
+E:\Projects\Veeraxml\Veeraxml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Veeraxml\Veeraxml\bin\Newtonsoft.Json.dll
+E:\Projects\Veeraxml\Veeraxml\bin\RestSharp.dll
+E:\Projects\Veeraxml\Veeraxml\bin\System.Net.Http.Formatting.dll
+E:\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.dll
+E:\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.WebHost.dll
+E:\Projects\Veeraxml\Veeraxml\bin\HtmlAgilityPack.pdb
+E:\Projects\Veeraxml\Veeraxml\bin\HtmlAgilityPack.xml
+E:\Projects\Veeraxml\Veeraxml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Veeraxml\Veeraxml\bin\RestSharp.xml
+E:\Projects\Veeraxml\Veeraxml\bin\Newtonsoft.Json.xml
+E:\Projects\Veeraxml\Veeraxml\bin\System.Net.Http.Formatting.xml
+E:\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.xml
+E:\Projects\Veeraxml\Veeraxml\bin\System.Web.Http.WebHost.xml
+E:\Projects\Veeraxml\Veeraxml\obj\Release\Veeraxml.csprojResolveAssemblyReference.cache
+E:\Projects\Veeraxml\Veeraxml\obj\Release\Veeraxml.dll
+E:\Projects\Veeraxml\Veeraxml\obj\Release\Veeraxml.pdb

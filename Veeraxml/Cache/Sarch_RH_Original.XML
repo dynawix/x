@@ -1,0 +1,3684 @@
+<response>
+  <debug>
+    <status>200</status>
+  </debug>
+  <error />
+  <result>
+    <address>Cornish Street - El Dahar Area, Хургада</address>
+    <amenities>
+      <amenities>на немецком</amenities>
+      <amenities>на русском</amenities>
+      <amenities>на английском</amenities>
+      <group_name>Персонал говорит</group_name>
+      <group_slug>has_languages</group_slug>
+    </amenities>
+    <check_in_time>15:00:00</check_in_time>
+    <check_out_time>12:00:00</check_out_time>
+    <city>Хургада</city>
+    <clean_address>Cornish Street - El Dahar Area, Хургада</clean_address>
+    <country>Египет</country>
+    <country_code>EG</country_code>
+    <description>&lt;h4&gt;Местоположение отеля&lt;/h4&gt;
+&lt;p&gt;Royal Star Beach Resort (Хургада), район (Корниш-роуд - Дахар), располагается всего в нескольких минутах от следующих достопримечательностей и объектов: Морской музей и океанариум в Хургаде. Кроме того, неподалеку расположены следующие важные объекты: Dolphin Dancers.  Этот 4-звездочный отель находится в непосредственной близости от таких достопримечательностей, как Мечеть в Хургаде и New Marina.&lt;/p&gt;
+&lt;h4&gt;Номера&lt;/h4&gt;
+&lt;p&gt;Почувствуйте себя как дома в одном из 212 номеров с кондиционером и другими удобствами, в числе которых холодильник. Отдельные балконы или внутренние дворики. Спутниковое телевидение в номере не даст вам скучать. Собственные ванные комнаы, душ. Предоставляются бесплатные туалетные принадлежности и фен.&lt;/p&gt;
+&lt;h4&gt;Удобства&lt;/h4&gt;
+&lt;p&gt;Проведите свой день на пляже или воспользуйтесь другими возможностями для отдыха и развлечений, такими как открытый бассейн. Этот отель предоставляет дополнительные услуги и удобства: бесплатный беспроводной доступ в интернет и магазины сувениров/газетные киоски.&lt;/p&gt;
+&lt;h4&gt;Кафе и рестораны&lt;/h4&gt;
+&lt;p&gt;Когда вы проголодаетесь, отель приглашает вас посетить один из 2 ресторана(ов). Бар на пляже и 3 баров/лаунжей предлагают освежающие напитки, чтобы помочь вам расслабиться.&lt;/p&gt;
+&lt;h4&gt;Бизнес, другие удобства и услуги&lt;/h4&gt;
+&lt;p&gt;Для удобства гостей предоставляется следующее: круглосуточная работа стойки регистрации, хранение багажа и услуги прачечной.&lt;/p&gt;
+</description>
+    <description_short>Royal Star Beach Resort (Хургада), район (Корниш-роуд - Дахар), располагается всего в нескольких минутах от следующих достопримечательностей и объектов: Морской музей и океанариум в Хургаде. Кроме того, неподалеку расположены следующие важные объекты: Dolphin Dancers.  Этот 4-звездочный отель находится в непосредственной близости от таких достопримечательностей, как Мечеть в Хургаде и New Marina.</description_short>
+    <email>res-royalstar@threecorners.com</email>
+    <hotelpage>https://ostrovok.ru/rooms/the_three_corners_royal_star_beach_resort</hotelpage>
+    <id>the_three_corners_royal_star_beach_resort</id>
+    <images>
+      <height>220</height>
+      <orig_height>387</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/9f/be/9fbedaac39212b555ed98592ba15b5d545dd5090.png</orig_url>
+      <orig_width>855</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/9f/be/9fbedaac39212b555ed98592ba15b5d545dd5090.png</url>
+      <width>486</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>534</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/21/ec/21ecef6e65a93f462679a41e1220e5a4ea81872c.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/21/ec/21ecef6e65a93f462679a41e1220e5a4ea81872c.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>526</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/98/a7/98a7e90aab935a35105e10c5b728cd352478d57b.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/98/a7/98a7e90aab935a35105e10c5b728cd352478d57b.jpeg</url>
+      <width>335</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>600</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/31/8c/318c1ce07750fbcf2927464cd941636a1a75c448.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/31/8c/318c1ce07750fbcf2927464cd941636a1a75c448.jpeg</url>
+      <width>293</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>600</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/3c/52/3c52e1e8f577d88eb6fe56fe27d899649a485f60.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/3c/52/3c52e1e8f577d88eb6fe56fe27d899649a485f60.jpeg</url>
+      <width>293</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>640</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/4d/7b/4d7bb2a99448a9f0e020862b63d69ae874faad71.jpeg</orig_url>
+      <orig_width>1000</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/4d/7b/4d7bb2a99448a9f0e020862b63d69ae874faad71.jpeg</url>
+      <width>344</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>600</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/cc/3a/cc3a20feb395a1005d2f6716b32545cd02e12319.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/cc/3a/cc3a20feb395a1005d2f6716b32545cd02e12319.jpeg</url>
+      <width>293</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>3440</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/7a/dd/7addae06ca155e099891ec3a8c707d5c2a6ab895.jpeg</orig_url>
+      <orig_width>5216</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/7a/dd/7addae06ca155e099891ec3a8c707d5c2a6ab895.jpeg</url>
+      <width>334</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>387</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/ac/1d/ac1d1b74dfbf22f40450028191d93af5b0c211bf.png</orig_url>
+      <orig_width>855</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/ac/1d/ac1d1b74dfbf22f40450028191d93af5b0c211bf.png</url>
+      <width>486</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>299</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/be/b7/beb7cbe9e563f02ca7e54b1aa5624a5a5c0a94ca.jpeg</orig_url>
+      <orig_width>448</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/be/b7/beb7cbe9e563f02ca7e54b1aa5624a5a5c0a94ca.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>667</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/1a/6c/1a6c8f56f8a6b31f7eb41135274e8f761b899f3b.jpeg</orig_url>
+      <orig_width>1000</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/1a/6c/1a6c8f56f8a6b31f7eb41135274e8f761b899f3b.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>1000</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/bd/1e/bd1e52336a1912cb579c06830ec92e0650e74be2.jpeg</orig_url>
+      <orig_width>666</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/bd/1e/bd1e52336a1912cb579c06830ec92e0650e74be2.jpeg</url>
+      <width>147</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>533</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/c1/fd/c1fdb76e1c6583cf8def4277f6a4221c42b24591.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/c1/fd/c1fdb76e1c6583cf8def4277f6a4221c42b24591.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>667</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/f8/bf/f8bf70e55d62ea795bbec275613c5a6c7a4c348b.jpeg</orig_url>
+      <orig_width>1000</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/f8/bf/f8bf70e55d62ea795bbec275613c5a6c7a4c348b.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>460</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/second/a2/b7/a2b75416b4fb45f1654257bdc0d155704e3394af.jpeg</orig_url>
+      <orig_width>840</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/second/a2/b7/a2b75416b4fb45f1654257bdc0d155704e3394af.jpeg</url>
+      <width>402</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>3658</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/c3/fb/c3fb9fb0b943718af9c5cb9e70ab2b47621e8a62.jpeg</orig_url>
+      <orig_width>5486</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/c3/fb/c3fb9fb0b943718af9c5cb9e70ab2b47621e8a62.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>3672</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/ab/4f/ab4f22e76b70a944ca7cda9341d409a34e54a267.jpeg</orig_url>
+      <orig_width>5511</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/ab/4f/ab4f22e76b70a944ca7cda9341d409a34e54a267.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>600</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/dc/db/dcdb9ad12e96d0a570bcd488f039712f816be708.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/dc/db/dcdb9ad12e96d0a570bcd488f039712f816be708.jpeg</url>
+      <width>293</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>600</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/5e/f6/5ef6194d025e4fdb43f219cf615722405da53a01.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/5e/f6/5ef6194d025e4fdb43f219cf615722405da53a01.jpeg</url>
+      <width>293</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>555</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/7f/45/7f4580e7de9324e665a08bc6d4c3616f09abbecf.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/7f/45/7f4580e7de9324e665a08bc6d4c3616f09abbecf.jpeg</url>
+      <width>317</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>600</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/bd/e0/bde079e03a1d2fed8b9584f424f32cfdf128fadd.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/bd/e0/bde079e03a1d2fed8b9584f424f32cfdf128fadd.jpeg</url>
+      <width>293</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>285</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/22/6e/226e4cfa475afd8fd682857843f317ace6525d51.jpeg</orig_url>
+      <orig_width>448</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/22/6e/226e4cfa475afd8fd682857843f317ace6525d51.jpeg</url>
+      <width>346</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>682</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/second/05/0e/050edba82651c2bdd9d0c1d03fbc651193f3b873.jpeg</orig_url>
+      <orig_width>1024</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/second/05/0e/050edba82651c2bdd9d0c1d03fbc651193f3b873.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>1889</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/0a/72/0a725d6ae81ae69025dc49ff04c7740f558cfa48.jpeg</orig_url>
+      <orig_width>2835</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/0a/72/0a725d6ae81ae69025dc49ff04c7740f558cfa48.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>460</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/second/f1/2a/f12a6fc3615e68022d21bad0e9a8817dfb93e228.jpeg</orig_url>
+      <orig_width>840</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/second/f1/2a/f12a6fc3615e68022d21bad0e9a8817dfb93e228.jpeg</url>
+      <width>402</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>2299</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/f2/cc/f2cc5305d02de7a4ae48264dcb2ab8e38e7c80a1.jpeg</orig_url>
+      <orig_width>3428</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/f2/cc/f2cc5305d02de7a4ae48264dcb2ab8e38e7c80a1.jpeg</url>
+      <width>328</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>533</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/2b/0d/2b0da02e1faae56655c6bcc1237ba239f8c237a8.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/2b/0d/2b0da02e1faae56655c6bcc1237ba239f8c237a8.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>669</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/88/92/88923017ee3b9119c0cd4736ad733bd4e513c61c.jpeg</orig_url>
+      <orig_width>1000</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/88/92/88923017ee3b9119c0cd4736ad733bd4e513c61c.jpeg</url>
+      <width>329</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>683</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/second/70/31/70318839cb90f14f43cbd37f3639e0ed28cd609b.jpeg</orig_url>
+      <orig_width>1024</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/second/70/31/70318839cb90f14f43cbd37f3639e0ed28cd609b.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>1889</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/25/a8/25a85b0e4b7c034c005a5dd19d961cb17fdea2ce.jpeg</orig_url>
+      <orig_width>2835</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/25/a8/25a85b0e4b7c034c005a5dd19d961cb17fdea2ce.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>739</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/c5/d2/c5d237b8a9501acc62468890e17eaf1cc5cdfed9.jpeg</orig_url>
+      <orig_width>1000</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/c5/d2/c5d237b8a9501acc62468890e17eaf1cc5cdfed9.jpeg</url>
+      <width>298</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>460</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/6c/3a/6c3aca96b6ab600bc2312a688a40693ac8f50235.jpeg</orig_url>
+      <orig_width>687</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/6c/3a/6c3aca96b6ab600bc2312a688a40693ac8f50235.jpeg</url>
+      <width>329</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>534</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/80/e6/80e6ce9371a3674c34f300182c62878434366d3a.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/80/e6/80e6ce9371a3674c34f300182c62878434366d3a.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>682</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/32/87/3287defec5ffa4b8b67292487b3e5b2a63ada5af.jpeg</orig_url>
+      <orig_width>1024</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/32/87/3287defec5ffa4b8b67292487b3e5b2a63ada5af.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>534</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/7e/d1/7ed149f98496d5f2566180a82797a81ce59a8d70.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/7e/d1/7ed149f98496d5f2566180a82797a81ce59a8d70.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>534</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/d9/03/d903273a674e9e82c3f529a7c692d4ee40aebb76.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/d9/03/d903273a674e9e82c3f529a7c692d4ee40aebb76.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>460</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/65/2c/652ce918637685a676bab80a5f2456556fe5fdae.jpeg</orig_url>
+      <orig_width>690</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/65/2c/652ce918637685a676bab80a5f2456556fe5fdae.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>534</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/5f/5d/5f5d34ef9e6d17317cde3ebf217607c8de892eb8.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/5f/5d/5f5d34ef9e6d17317cde3ebf217607c8de892eb8.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>533</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/24/d9/24d9ac0c27e789d4d6613963e4ca590ddf5a2d34.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/24/d9/24d9ac0c27e789d4d6613963e4ca590ddf5a2d34.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>536</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/50/c8/50c8c860d75519d7890aa422e4a3af08a5c472b8.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/50/c8/50c8c860d75519d7890aa422e4a3af08a5c472b8.jpeg</url>
+      <width>328</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>535</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/6c/40/6c409cd37bca50a28cfd68b05c640b6fef4771e0.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/6c/40/6c409cd37bca50a28cfd68b05c640b6fef4771e0.jpeg</url>
+      <width>329</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>535</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/da/70/da70bf6b224f5aaae1354554551962705b5a8e65.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/da/70/da70bf6b224f5aaae1354554551962705b5a8e65.jpeg</url>
+      <width>329</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>490</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/9a/a1/9aa11d960e7504dd6951db056b192bab1a0de7c7.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/9a/a1/9aa11d960e7504dd6951db056b192bab1a0de7c7.jpeg</url>
+      <width>359</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>533</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/60/78/607826d145655cd0405f6d074a7d3123f323c0f2.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/60/78/607826d145655cd0405f6d074a7d3123f323c0f2.jpeg</url>
+      <width>330</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>530</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/50/4b/504bdfe6fb94c4275303bbc5e862592ffeb4ddbd.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/50/4b/504bdfe6fb94c4275303bbc5e862592ffeb4ddbd.jpeg</url>
+      <width>332</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>430</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/8c/e1/8ce13e631ef0bc95bd120747204e10f06149c878.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/8c/e1/8ce13e631ef0bc95bd120747204e10f06149c878.jpeg</url>
+      <width>409</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>530</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/91/81/9181edc0e683a958dccc6e45ba82a7e890d6cfcd.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/91/81/9181edc0e683a958dccc6e45ba82a7e890d6cfcd.jpeg</url>
+      <width>332</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>546</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/60/00/6000c0dcaf254b8b6957af68a872a05ae34f7dac.jpeg</orig_url>
+      <orig_width>800</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/60/00/6000c0dcaf254b8b6957af68a872a05ae34f7dac.jpeg</url>
+      <width>322</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>1000</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/61/39/6139cc765f8e52acde69ef40022ab4f54da2777d.jpeg</orig_url>
+      <orig_width>666</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/61/39/6139cc765f8e52acde69ef40022ab4f54da2777d.jpeg</url>
+      <width>147</width>
+    </images>
+    <images>
+      <height>220</height>
+      <orig_height>1000</orig_height>
+      <orig_url>https://cdn.ostrovok.ru/t/orig/content/83/6a/836aedb99c678d34275072b9f0129aa994053f29.jpeg</orig_url>
+      <orig_width>781</orig_width>
+      <url>https://cdn.ostrovok.ru/t/x220/content/83/6a/836aedb99c678d34275072b9f0129aa994053f29.jpeg</url>
+      <width>172</width>
+    </images>
+    <is_bookable_in_api>true</is_bookable_in_api>
+    <kind>Resort</kind>
+    <latitude>27.26065</latitude>
+    <longitude>33.8201</longitude>
+    <low_rate>
+      <amount>3431</amount>
+      <currency>RUB</currency>
+      <updated_at>2018-09-25T15:08:56:382580</updated_at>
+    </low_rate>
+    <master_id>8289511</master_id>
+    <matching>
+      <Booking>864681</Booking>
+      <Carsolize>4648543</Carsolize>
+      <ClickTripz>1117280</ClickTripz>
+      <Expedia>449704</Expedia>
+      <HRS>637563</HRS>
+      <HotelsPro>1703425</HotelsPro>
+      <Ostrovok>2520252</Ostrovok>
+      <TripAdvisor>6164318</TripAdvisor>
+    </matching>
+    <name>Royal Star Beach Resort</name>
+    <phone>0020 653 543 903</phone>
+    <policy_description>&lt;p&gt;Полезная информация&lt;/p&gt;
+&lt;p&gt;В отеле запрещено держать животных, включая служебных.&lt;/p&gt;
+</policy_description>
+    <rating>
+      <count>70</count>
+      <detailed>
+        <cleanness>8</cleanness>
+        <comfort>8</comfort>
+        <location>7</location>
+        <personnel>8</personnel>
+        <price>7</price>
+        <services>8</services>
+      </detailed>
+      <exists>true</exists>
+      <other_reviews_count>70</other_reviews_count>
+      <our_reviews_count>0</our_reviews_count>
+      <review_best>
+        <author_region>
+          <center>
+            <lat>0</lat>
+            <lng>0</lng>
+          </center>
+          <country_code>
+          </country_code>
+          <country_en>
+          </country_en>
+          <country_ru>
+          </country_ru>
+          <hotels_count>0</hotels_count>
+          <locative_in_en>
+          </locative_in_en>
+          <locative_in_ru>
+          </locative_in_ru>
+          <locative_where_en>
+          </locative_where_en>
+          <locative_where_ru>
+          </locative_where_ru>
+          <name_en>
+          </name_en>
+          <name_ru>
+          </name_ru>
+          <parent_en>
+          </parent_en>
+          <parent_ru>
+          </parent_ru>
+          <photos />
+          <region_id>0</region_id>
+          <type>
+          </type>
+        </author_region>
+        <id>0</id>
+      </review_best>
+      <reviews_count>70</reviews_count>
+      <total>7.5</total>
+      <total_verbose>Хорошо</total_verbose>
+    </rating>
+    <region_category>World (w\o Europe, w\o ALL CIS)</region_category>
+    <region_id>6051294</region_id>
+    <room_groups>
+      <amenities />
+      <name>Другое</name>
+      <name_struct>
+        <main_name>Другое</main_name>
+      </name_struct>
+      <room_group_id>0</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Кровати в общем номере</name>
+      <name_struct>
+        <main_name>Кровати в общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>6</parent_room_group_id>
+      <room_group_id>6</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Кровати в мужском общем номере</name>
+      <name_struct>
+        <main_name>Кровати в мужском общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>7</parent_room_group_id>
+      <room_group_id>7</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Кровати в женском общем номере</name>
+      <name_struct>
+        <main_name>Кровати в женском общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>8</parent_room_group_id>
+      <room_group_id>8</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера с общей ванной комнатой</name>
+      <name_struct>
+        <main_name>Номера с общей ванной комнатой</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>9</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом</name>
+      <name_struct>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>10</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера</name>
+      <name_struct>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>11</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные номера</name>
+      <name_struct>
+        <main_name>Улучшенные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>12</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Премиум</name>
+      <name_struct>
+        <main_name>Номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>13</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты</name>
+      <name_struct>
+        <main_name>Апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>14</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные апартаменты</name>
+      <name_struct>
+        <main_name>Улучшенные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>15</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Премиум</name>
+      <name_struct>
+        <main_name>Апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>16</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Коттеджи</name>
+      <name_struct>
+        <main_name>Коттеджи</main_name>
+      </name_struct>
+      <parent_room_group_id>17</parent_room_group_id>
+      <room_group_id>17</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Тенты</name>
+      <name_struct>
+        <main_name>Тенты</main_name>
+      </name_struct>
+      <parent_room_group_id>19</parent_room_group_id>
+      <room_group_id>19</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Капсульные номера</name>
+      <name_struct>
+        <main_name>Капсульные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>20</parent_room_group_id>
+      <room_group_id>20</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Бунгало</name>
+      <name_struct>
+        <main_name>Бунгало</main_name>
+      </name_struct>
+      <parent_room_group_id>21</parent_room_group_id>
+      <room_group_id>21</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Виллы</name>
+      <name_struct>
+        <main_name>Виллы</main_name>
+      </name_struct>
+      <parent_room_group_id>22</parent_room_group_id>
+      <room_group_id>22</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные виллы</name>
+      <name_struct>
+        <main_name>Улучшенные виллы</main_name>
+      </name_struct>
+      <parent_room_group_id>23</parent_room_group_id>
+      <room_group_id>23</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Виллы Делюкс</name>
+      <name_struct>
+        <main_name>Виллы Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>24</parent_room_group_id>
+      <room_group_id>24</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Виллы Премиум</name>
+      <name_struct>
+        <main_name>Виллы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>25</parent_room_group_id>
+      <room_group_id>25</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии</name>
+      <name_struct>
+        <main_name>Студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>26</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские номера</name>
+      <name_struct>
+        <main_name>Представительские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>27</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Делюкс</name>
+      <name_struct>
+        <main_name>Номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>28</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Комфорт</name>
+      <name_struct>
+        <main_name>Номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>29</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы</name>
+      <name_struct>
+        <main_name>Люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>32</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Полулюксы</name>
+      <name_struct>
+        <main_name>Полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>33</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Спецпредложения</name>
+      <name_struct>
+        <main_name>Спецпредложения</main_name>
+      </name_struct>
+      <parent_room_group_id>34</parent_room_group_id>
+      <room_group_id>34</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные люксы</name>
+      <name_struct>
+        <main_name>Улучшенные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>37</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские люксы</name>
+      <name_struct>
+        <main_name>Президентские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>38</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Эконом</name>
+      <name_struct>
+        <main_name>Студии Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>39</parent_room_group_id>
+      <room_group_id>39</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные студии</name>
+      <name_struct>
+        <main_name>Улучшенные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>41</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Делюкс</name>
+      <name_struct>
+        <main_name>Студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>42</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Эконом</name>
+      <name_struct>
+        <main_name>Апартаменты Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>43</parent_room_group_id>
+      <room_group_id>43</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Виллы Эконом</name>
+      <name_struct>
+        <main_name>Виллы Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>45</parent_room_group_id>
+      <room_group_id>45</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Бизнес</name>
+      <name_struct>
+        <main_name>Номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>47</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Капсулы в мужском общем номере</name>
+      <name_struct>
+        <main_name>Капсулы в мужском общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>49</parent_room_group_id>
+      <room_group_id>49</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Капсулы в женском общем номере</name>
+      <name_struct>
+        <main_name>Капсулы в женском общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>50</parent_room_group_id>
+      <room_group_id>50</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Коттеджи Эконом</name>
+      <name_struct>
+        <main_name>Коттеджи Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>51</parent_room_group_id>
+      <room_group_id>51</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные коттеджи</name>
+      <name_struct>
+        <main_name>Улучшенные коттеджи</main_name>
+      </name_struct>
+      <parent_room_group_id>52</parent_room_group_id>
+      <room_group_id>52</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Коттеджи Премиум</name>
+      <name_struct>
+        <main_name>Коттеджи Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>53</parent_room_group_id>
+      <room_group_id>53</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Бунгало Эконом</name>
+      <name_struct>
+        <main_name>Бунгало Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>54</parent_room_group_id>
+      <room_group_id>54</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные бунгало</name>
+      <name_struct>
+        <main_name>Улучшенные бунгало</main_name>
+      </name_struct>
+      <parent_room_group_id>55</parent_room_group_id>
+      <room_group_id>55</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Бунгало Премиум</name>
+      <name_struct>
+        <main_name>Бунгало Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>56</parent_room_group_id>
+      <room_group_id>56</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Шале Эконом</name>
+      <name_struct>
+        <main_name>Шале Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>57</parent_room_group_id>
+      <room_group_id>57</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Шале</name>
+      <name_struct>
+        <main_name>Шале</main_name>
+      </name_struct>
+      <parent_room_group_id>58</parent_room_group_id>
+      <room_group_id>58</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные шале</name>
+      <name_struct>
+        <main_name>Улучшенные шале</main_name>
+      </name_struct>
+      <parent_room_group_id>59</parent_room_group_id>
+      <room_group_id>59</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Премиум шале</name>
+      <name_struct>
+        <main_name>Премиум шале</main_name>
+      </name_struct>
+      <parent_room_group_id>60</parent_room_group_id>
+      <room_group_id>60</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные капсульные номера</name>
+      <name_struct>
+        <main_name>Улучшенные капсульные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>61</parent_room_group_id>
+      <room_group_id>61</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные капсулы в мужском общем номере</name>
+      <name_struct>
+        <main_name>Улучшенные капсулы в мужском общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>62</parent_room_group_id>
+      <room_group_id>62</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные капсулы в женском общем номере</name>
+      <name_struct>
+        <main_name>Улучшенные капсулы в женском общем номере</main_name>
+      </name_struct>
+      <parent_room_group_id>63</parent_room_group_id>
+      <room_group_id>63</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские номера</name>
+      <name_struct>
+        <main_name>Президентские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>64</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы повышенной комфортности</name>
+      <name_struct>
+        <main_name>Люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>65</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские люксы</name>
+      <name_struct>
+        <main_name>Представительские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>66</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премиум</name>
+      <name_struct>
+        <main_name>Люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>67</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Коттеджи Делюкс</name>
+      <name_struct>
+        <main_name>Коттеджи Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>68</parent_room_group_id>
+      <room_group_id>68</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Бунгало Делюкс</name>
+      <name_struct>
+        <main_name>Бунгало Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>69</parent_room_group_id>
+      <room_group_id>69</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Шале Делюкс</name>
+      <name_struct>
+        <main_name>Шале Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>70</parent_room_group_id>
+      <room_group_id>70</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>71</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>72</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с двухъярусной кроватью</name>
+      <name_struct>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>73</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>74</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>75</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с двуспальной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>76</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>77</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с двухъярусной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>78</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Эконом с двуспальной кроватью или 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>79</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом</name>
+      <name_struct>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>80</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>81</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>82</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с двухъярусной кроватью</name>
+      <name_struct>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>83</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>10</parent_room_group_id>
+      <room_group_id>84</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>85</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с двуспальной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>86</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>87</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с двухъярусной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>88</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Эконом с двуспальной кроватью или 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера категории Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>9</parent_room_group_id>
+      <room_group_id>89</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/0d/75/0d75c883c9258ccca59cc6c1a184ed785709b343.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/0d/75/0d75c883c9258ccca59cc6c1a184ed785709b343.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/ce/62/ce625aee2990783a27dd7ae3689910e83db44eeb.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/ce/62/ce625aee2990783a27dd7ae3689910e83db44eeb.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>682</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/32/87/3287defec5ffa4b8b67292487b3e5b2a63ada5af.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/32/87/3287defec5ffa4b8b67292487b3e5b2a63ada5af.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>90</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/0d/75/0d75c883c9258ccca59cc6c1a184ed785709b343.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>91</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с двухъярусной кроватью</name>
+      <name_struct>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>92</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>93</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>94</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с двуспальной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>95</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>96</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с двухъярусной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>97</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные номера с двуспальной кроватью или 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>98</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера</name>
+      <name_struct>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>99</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>100</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>101</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с двухъярусной кроватью</name>
+      <name_struct>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>102</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>103</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>104</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с двуспальной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>105</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>106</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с двухъярусной кроватью (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двухъярусной кроватью</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>107</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <description>Двухместный номер с 1 кроватью или 2 отдельными кроватями, частичный вид на море</description>
+      <image_list_tmpl>
+        <height>683</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>678</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/cf/bc/cfbc8e07cf45edb6d570e6a2898f3d2fb8a4b373.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>675</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/19/cc/19cc0958fdb85239cde76fb5b4e52f452871400a.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>656</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/second/72/1b/721bbaec2751bb0009957a435a68e4fc4b8062ee.jpeg</src_secure>
+        <width>1024</width>
+      </image_list_tmpl>
+      <image_list_tmpl>
+        <height>533</height>
+        <src>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src>
+        <src_secure>https://cdn.ostrovok.ru/t/{size}/content/f0/e7/f0e7717b863d40ed1f8ea9094ea12593939553c4.jpeg</src_secure>
+        <width>800</width>
+      </image_list_tmpl>
+      <name>Стандартные семейные номера с двуспальной кроватью или 2 отдельными кроватями (общая ванная комната)</name>
+      <name_struct>
+        <bathroom>общая ванная комната</bathroom>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Стандартные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>11</parent_room_group_id>
+      <room_group_id>108</room_group_id>
+      <size>26.0</size>
+      <thumbnail_tmpl>https://cdn.ostrovok.ru/t/{size}/second/47/11/47113996691f48d76af0a8e94a581757abfab101.jpeg</thumbnail_tmpl>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Комфорт с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>109</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Комфорт с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>110</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Комфорт с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>111</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Комфорт</name>
+      <name_struct>
+        <main_name>Семейные номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>112</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Комфорт с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>113</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Комфорт с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>114</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Комфорт с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Комфорт</main_name>
+      </name_struct>
+      <parent_room_group_id>29</parent_room_group_id>
+      <room_group_id>115</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Бизнес с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>116</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Бизнес с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>117</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Бизнес с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>118</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Бизнес</name>
+      <name_struct>
+        <main_name>Семейные номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>119</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Бизнес с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>120</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Бизнес с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>121</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Бизнес с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Бизнес</main_name>
+      </name_struct>
+      <parent_room_group_id>47</parent_room_group_id>
+      <room_group_id>122</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>123</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>124</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>125</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные номера</name>
+      <name_struct>
+        <main_name>Улучшенные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>126</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>127</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>128</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>12</parent_room_group_id>
+      <room_group_id>129</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Делюкс с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>130</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Делюкс с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>131</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Делюкс с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>132</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Делюкс</name>
+      <name_struct>
+        <main_name>Семейные номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>133</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Делюкс с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>134</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Делюкс с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>135</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Делюкс с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>136</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Премьер</name>
+      <name_struct>
+        <main_name>Номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>137</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Премьер с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>138</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Премьер с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>139</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера Премьер с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>140</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Премьер</name>
+      <name_struct>
+        <main_name>Семейные номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>141</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Премьер с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>142</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Премьер с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>143</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера Премьер с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>28</parent_room_group_id>
+      <room_group_id>144</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Представительские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>145</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>146</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>147</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные номера</name>
+      <name_struct>
+        <main_name>Представительские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>148</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Представительские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>149</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>150</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>27</parent_room_group_id>
+      <room_group_id>151</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Президентские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>152</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>153</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>154</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные номера</name>
+      <name_struct>
+        <main_name>Президентские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>155</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные номера с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Президентские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>156</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные номера с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>157</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные номера с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские семейные номера</main_name>
+      </name_struct>
+      <parent_room_group_id>64</parent_room_group_id>
+      <room_group_id>158</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Премиум с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>159</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Премиум с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>160</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Номера категории Премиум с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>161</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Премиум</name>
+      <name_struct>
+        <main_name>Семейные номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>162</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Премиум с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>163</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Премиум с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>164</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные номера категории Премиум с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные номера категории Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>13</parent_room_group_id>
+      <room_group_id>165</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Полулюксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>166</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Полулюксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>167</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Полулюксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>168</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные полулюксы</name>
+      <name_struct>
+        <main_name>Семейные полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>169</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные полулюксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>170</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные полулюксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>171</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные полулюксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные полулюксы</main_name>
+      </name_struct>
+      <parent_room_group_id>33</parent_room_group_id>
+      <room_group_id>172</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>173</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>174</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>175</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы</name>
+      <name_struct>
+        <main_name>Семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>176</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>177</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>178</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>32</parent_room_group_id>
+      <room_group_id>179</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>180</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>181</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>182</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные люксы</name>
+      <name_struct>
+        <main_name>Улучшенные семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>183</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>184</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>185</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>37</parent_room_group_id>
+      <room_group_id>186</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы повышенной комфортности с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>187</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы повышенной комфортности с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>188</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы повышенной комфортности с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>189</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы повышенной комфортности</name>
+      <name_struct>
+        <main_name>Семейные люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>190</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы повышенной комфортности с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>191</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы повышенной комфортности с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>192</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы повышенной комфортности с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы повышенной комфортности</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>193</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премьер</name>
+      <name_struct>
+        <main_name>Люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>194</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премьер с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>195</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премьер с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>196</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премьер с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>197</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премьер</name>
+      <name_struct>
+        <main_name>Семейные люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>198</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премьер с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>199</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премьер с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>200</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премьер с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы Премьер</main_name>
+      </name_struct>
+      <parent_room_group_id>65</parent_room_group_id>
+      <room_group_id>201</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Представительские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>202</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>203</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>204</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные люксы</name>
+      <name_struct>
+        <main_name>Представительские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>205</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Представительские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>206</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>207</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Представительские семейные люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Представительские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>66</parent_room_group_id>
+      <room_group_id>208</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Президентские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>209</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>210</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>211</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные люксы</name>
+      <name_struct>
+        <main_name>Президентские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>212</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные люксы с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Президентские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>213</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные люксы с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>214</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Президентские семейные люксы с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Президентские семейные люксы</main_name>
+      </name_struct>
+      <parent_room_group_id>38</parent_room_group_id>
+      <room_group_id>215</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премиум с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>216</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премиум с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>217</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Люксы Премиум с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>218</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премиум</name>
+      <name_struct>
+        <main_name>Семейные люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>219</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премиум с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>220</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премиум с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>221</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные люксы Премиум с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные люксы Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>67</parent_room_group_id>
+      <room_group_id>222</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Эконом с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Апартаменты Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>43</parent_room_group_id>
+      <room_group_id>223</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Эконом с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Апартаменты Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>43</parent_room_group_id>
+      <room_group_id>224</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Эконом с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Апартаменты Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>43</parent_room_group_id>
+      <room_group_id>225</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>226</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>227</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>228</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты</name>
+      <name_struct>
+        <main_name>Семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>229</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>230</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>231</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>14</parent_room_group_id>
+      <room_group_id>232</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные апартаменты с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>233</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные апартаменты с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>234</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные апартаменты с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>235</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные апартаменты</name>
+      <name_struct>
+        <main_name>Улучшенные семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>236</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные апартаменты с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>237</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные апартаменты с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>238</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные апартаменты с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные апартаменты</main_name>
+      </name_struct>
+      <parent_room_group_id>15</parent_room_group_id>
+      <room_group_id>239</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Премиум с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>240</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Премиум с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>241</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Апартаменты Премиум с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>242</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты Премиум</name>
+      <name_struct>
+        <main_name>Семейные апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>243</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты Премиум с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>244</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты Премиум с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>245</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные апартаменты Премиум с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные апартаменты Премиум</main_name>
+      </name_struct>
+      <parent_room_group_id>16</parent_room_group_id>
+      <room_group_id>246</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Эконом с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Студии Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>39</parent_room_group_id>
+      <room_group_id>247</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Эконом с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Студии Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>39</parent_room_group_id>
+      <room_group_id>248</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Эконом с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Студии Эконом</main_name>
+      </name_struct>
+      <parent_room_group_id>39</parent_room_group_id>
+      <room_group_id>249</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>250</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>251</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>252</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии</name>
+      <name_struct>
+        <main_name>Семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>253</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>254</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>255</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>26</parent_room_group_id>
+      <room_group_id>256</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные студии с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>257</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные студии с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>258</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные студии с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>259</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные студии</name>
+      <name_struct>
+        <main_name>Улучшенные семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>260</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные студии с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Улучшенные семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>261</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные студии с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>262</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Улучшенные семейные студии с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Улучшенные семейные студии</main_name>
+      </name_struct>
+      <parent_room_group_id>41</parent_room_group_id>
+      <room_group_id>263</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Делюкс с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>264</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Делюкс с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>265</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Студии Делюкс с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>266</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии Делюкс</name>
+      <name_struct>
+        <main_name>Семейные студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>267</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии Делюкс с двуспальной кроватью</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью</bedding_type>
+        <main_name>Семейные студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>268</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии Делюкс с 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>269</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Семейные студии Делюкс с двуспальной кроватью или 2 отдельными кроватями</name>
+      <name_struct>
+        <bedding_type>с двуспальной кроватью или 2 отдельными кроватями</bedding_type>
+        <main_name>Семейные студии Делюкс</main_name>
+      </name_struct>
+      <parent_room_group_id>42</parent_room_group_id>
+      <room_group_id>270</room_group_id>
+    </room_groups>
+    <room_groups>
+      <amenities />
+      <name>Кемпинг</name>
+      <name_struct>
+        <main_name>Кемпинг</main_name>
+      </name_struct>
+      <parent_room_group_id>34</parent_room_group_id>
+      <room_group_id>271</room_group_id>
+    </room_groups>
+    <star_rating>40</star_rating>
+    <thumbnail>https://cdn.ostrovok.ru/t/x220/content/9f/be/9fbedaac39212b555ed98592ba15b5d545dd5090.png</thumbnail>
+  </result>
+</response>

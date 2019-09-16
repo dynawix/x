@@ -1,0 +1,603 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D272AB8A-1D1E-44F8-9E0A-985A47A549DC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Veeraxml</RootNamespace>
+    <AssemblyName>Veeraxml</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.8.8.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.8.8\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="RestSharp, Version=106.4.1.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.4.1\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="API\HotelSearch.asmx" />
+    <Content Include="Book.aspx" />
+    <Content Include="Content\jquery.daterangepicker\ui.daterangepicker.css" />
+    <Content Include="css\assets\coloredbg.html" />
+    <Content Include="css\assets\gridtile.html" />
+    <Content Include="css\assets\gridtile_3x3.html" />
+    <Content Include="css\assets\gridtile_3x3_white.html" />
+    <Content Include="css\assets\gridtile_white.html" />
+    <Content Include="css\bootstrap-grid.css" />
+    <Content Include="css\colors\main.css" />
+    <Content Include="css\icons.css" />
+    <Content Include="css\img\loading.html" />
+    <Content Include="css\invoice.css" />
+    <Content Include="css\plugins\closedhand.html" />
+    <Content Include="css\plugins\openhand.html" />
+    <Content Include="css\plugins\revolutionslider.css" />
+    <Content Include="css\style.css" />
+    <Content Include="Dash-booking.aspx" />
+    <Content Include="Dash-Home.aspx" />
+    <Content Include="Dash-Message.aspx" />
+    <Content Include="daterange\daterangepicker.min.css" />
+    <Content Include="daterange\font-awesome.min.css" />
+    <Content Include="daterange\jquery.daterangepicker.js" />
+    <Content Include="daterange\jquery.min.js" />
+    <Content Include="daterange\moment.min.js" />
+    <Content Include="Default.aspx" />
+    <Content Include="fonts\fontawesome-webfont5b62.html" />
+    <Content Include="fonts\fontawesome-webfont5b62.svg" />
+    <Content Include="fonts\fontello.svg" />
+    <Content Include="fonts\iconsmindca27.svg" />
+    <Content Include="fonts\simple-line-iconsc05f.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Hotel.aspx" />
+    <Content Include="HotelList-Loader.aspx" />
+    <Content Include="HotelList.aspx" />
+    <Content Include="image-hotel.aspx" />
+    <Content Include="Image-Service.asmx" />
+    <Content Include="images\blog-compact-post-01.jpg" />
+    <Content Include="images\blog-compact-post-02.jpg" />
+    <Content Include="images\blog-compact-post-03.jpg" />
+    <Content Include="images\blog-post-01.jpg" />
+    <Content Include="images\blog-post-02.jpg" />
+    <Content Include="images\blog-post-03.jpg" />
+    <Content Include="images\blog-widget-01.jpg" />
+    <Content Include="images\blog-widget-02.jpg" />
+    <Content Include="images\blog-widget-03.jpg" />
+    <Content Include="images\category-box-01.jpg" />
+    <Content Include="images\category-box-02.jpg" />
+    <Content Include="images\category-box-03.jpg" />
+    <Content Include="images\category-box-04.jpg" />
+    <Content Include="images\category-box-05.jpg" />
+    <Content Include="images\category-box-06.jpg" />
+    <Content Include="images\dashboard-avatar.jpg" />
+    <Content Include="images\happy-client-01.jpg" />
+    <Content Include="images\happy-client-02.jpg" />
+    <Content Include="images\happy-client-03.jpg" />
+    <Content Include="images\listing-item-01.jpg" />
+    <Content Include="images\listing-item-02.jpg" />
+    <Content Include="images\listing-item-03.jpg" />
+    <Content Include="images\listing-item-04.jpg" />
+    <Content Include="images\listing-item-05.jpg" />
+    <Content Include="images\listing-item-06.jpg" />
+    <Content Include="images\loader1.gif" />
+    <Content Include="images\logo-01.png" />
+    <Content Include="images\logo-02.png" />
+    <Content Include="images\logo-03.png" />
+    <Content Include="images\logo-04.png" />
+    <Content Include="images\logo-05.png" />
+    <Content Include="images\logo-06.png" />
+    <Content Include="images\logo-07.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\main-search-background-01.jpg" />
+    <Content Include="images\main-search-video-poster.jpg" />
+    <Content Include="images\main-search-video.mp4" />
+    <Content Include="images\our-office.jpg" />
+    <Content Include="images\plus-icon.svg" />
+    <Content Include="images\popular-location-01.jpg" />
+    <Content Include="images\popular-location-02.jpg" />
+    <Content Include="images\popular-location-03.jpg" />
+    <Content Include="images\popular-location-04.jpg" />
+    <Content Include="images\review-image-01.jpg" />
+    <Content Include="images\review-image-02.jpg" />
+    <Content Include="images\review-image-03.jpg" />
+    <Content Include="images\reviews-avatar.jpg" />
+    <Content Include="images\single-listing-01.jpg" />
+    <Content Include="images\single-listing-01a.jpg" />
+    <Content Include="images\single-listing-02.jpg" />
+    <Content Include="images\single-listing-02a.jpg" />
+    <Content Include="images\single-listing-03.jpg" />
+    <Content Include="images\single-listing-03a.jpg" />
+    <Content Include="images\single-listing-04.jpg" />
+    <Content Include="images\single-listing-04a.jpg" />
+    <Content Include="images\slider-bg-01.jpg" />
+    <Content Include="images\slider-bg-02.jpg" />
+    <Content Include="images\user-avatar.jpg" />
+    <Content Include="images\user-profile-avatar.jpg" />
+    <Content Include="listeo\css\assets\coloredbg.html" />
+    <Content Include="listeo\css\assets\gridtile.html" />
+    <Content Include="listeo\css\assets\gridtile_3x3.html" />
+    <Content Include="listeo\css\assets\gridtile_3x3_white.html" />
+    <Content Include="listeo\css\assets\gridtile_white.html" />
+    <Content Include="listeo\css\bootstrap-grid.css" />
+    <Content Include="listeo\css\colors\main.css" />
+    <Content Include="listeo\css\icons.css" />
+    <Content Include="listeo\css\img\loading.html" />
+    <Content Include="listeo\css\invoice.css" />
+    <Content Include="listeo\css\plugins\closedhand.html" />
+    <Content Include="listeo\css\plugins\openhand.html" />
+    <Content Include="listeo\css\plugins\revolutionslider.css" />
+    <Content Include="listeo\css\style.css" />
+    <Content Include="listeo\dashboard-add-listing.html" />
+    <Content Include="listeo\dashboard-bookings.html" />
+    <Content Include="listeo\dashboard-bookmarks.html" />
+    <Content Include="listeo\dashboard-invoice.html" />
+    <Content Include="listeo\dashboard-messages-conversation.html" />
+    <Content Include="listeo\dashboard-messages.html" />
+    <Content Include="listeo\dashboard-my-listings.html" />
+    <Content Include="listeo\dashboard-my-profile.html" />
+    <Content Include="listeo\dashboard-reviews.html" />
+    <Content Include="listeo\dashboard.html" />
+    <Content Include="listeo\fonts\fontawesome-webfont5b62.html" />
+    <Content Include="listeo\fonts\fontawesome-webfont5b62.svg" />
+    <Content Include="listeo\fonts\fontello.svg" />
+    <Content Include="listeo\fonts\iconsmindca27.svg" />
+    <Content Include="listeo\fonts\simple-line-iconsc05f.svg" />
+    <Content Include="listeo\images\blog-compact-post-01.jpg" />
+    <Content Include="listeo\images\blog-compact-post-02.jpg" />
+    <Content Include="listeo\images\blog-compact-post-03.jpg" />
+    <Content Include="listeo\images\blog-post-01.jpg" />
+    <Content Include="listeo\images\blog-post-02.jpg" />
+    <Content Include="listeo\images\blog-post-03.jpg" />
+    <Content Include="listeo\images\blog-widget-01.jpg" />
+    <Content Include="listeo\images\blog-widget-02.jpg" />
+    <Content Include="listeo\images\blog-widget-03.jpg" />
+    <Content Include="listeo\images\category-box-01.jpg" />
+    <Content Include="listeo\images\category-box-02.jpg" />
+    <Content Include="listeo\images\category-box-03.jpg" />
+    <Content Include="listeo\images\category-box-04.jpg" />
+    <Content Include="listeo\images\category-box-05.jpg" />
+    <Content Include="listeo\images\category-box-06.jpg" />
+    <Content Include="listeo\images\dashboard-avatar.jpg" />
+    <Content Include="listeo\images\happy-client-01.jpg" />
+    <Content Include="listeo\images\happy-client-02.jpg" />
+    <Content Include="listeo\images\happy-client-03.jpg" />
+    <Content Include="listeo\images\listing-item-01.jpg" />
+    <Content Include="listeo\images\listing-item-02.jpg" />
+    <Content Include="listeo\images\listing-item-03.jpg" />
+    <Content Include="listeo\images\listing-item-04.jpg" />
+    <Content Include="listeo\images\listing-item-05.jpg" />
+    <Content Include="listeo\images\listing-item-06.jpg" />
+    <Content Include="listeo\images\logo-01.png" />
+    <Content Include="listeo\images\logo-02.png" />
+    <Content Include="listeo\images\logo-03.png" />
+    <Content Include="listeo\images\logo-04.png" />
+    <Content Include="listeo\images\logo-05.png" />
+    <Content Include="listeo\images\logo-06.png" />
+    <Content Include="listeo\images\logo-07.png" />
+    <Content Include="listeo\images\logo.png" />
+    <Content Include="listeo\images\logo2.png" />
+    <Content Include="listeo\images\main-search-background-01.jpg" />
+    <Content Include="listeo\images\main-search-video-poster.jpg" />
+    <Content Include="listeo\images\main-search-video.mp4" />
+    <Content Include="listeo\images\our-office.jpg" />
+    <Content Include="listeo\images\plus-icon.svg" />
+    <Content Include="listeo\images\popular-location-01.jpg" />
+    <Content Include="listeo\images\popular-location-02.jpg" />
+    <Content Include="listeo\images\popular-location-03.jpg" />
+    <Content Include="listeo\images\popular-location-04.jpg" />
+    <Content Include="listeo\images\review-image-01.jpg" />
+    <Content Include="listeo\images\review-image-02.jpg" />
+    <Content Include="listeo\images\review-image-03.jpg" />
+    <Content Include="listeo\images\reviews-avatar.jpg" />
+    <Content Include="listeo\images\single-listing-01.jpg" />
+    <Content Include="listeo\images\single-listing-01a.jpg" />
+    <Content Include="listeo\images\single-listing-02.jpg" />
+    <Content Include="listeo\images\single-listing-02a.jpg" />
+    <Content Include="listeo\images\single-listing-03.jpg" />
+    <Content Include="listeo\images\single-listing-03a.jpg" />
+    <Content Include="listeo\images\single-listing-04.jpg" />
+    <Content Include="listeo\images\single-listing-04a.jpg" />
+    <Content Include="listeo\images\slider-bg-01.jpg" />
+    <Content Include="listeo\images\slider-bg-02.jpg" />
+    <Content Include="listeo\images\user-avatar.jpg" />
+    <Content Include="listeo\images\user-profile-avatar.jpg" />
+    <Content Include="listeo\index-2.html" />
+    <Content Include="listeo\index-3.html" />
+    <Content Include="listeo\index-4.html" />
+    <Content Include="listeo\index-5.html" />
+    <Content Include="listeo\index.html" />
+    <Content Include="listeo\listings-grid-full-width-with-map.html" />
+    <Content Include="listeo\listings-grid-full-width.html" />
+    <Content Include="listeo\listings-grid-with-sidebar-1.html" />
+    <Content Include="listeo\listings-grid-with-sidebar-2.html" />
+    <Content Include="listeo\listings-half-screen-map-grid-1.html" />
+    <Content Include="listeo\listings-half-screen-map-grid-2.html" />
+    <Content Include="listeo\listings-half-screen-map-list.html" />
+    <Content Include="listeo\listings-list-full-width-with-map.html" />
+    <Content Include="listeo\listings-list-full-width.html" />
+    <Content Include="listeo\listings-list-with-sidebar.html" />
+    <Content Include="listeo\listings-single-page-2.html" />
+    <Content Include="listeo\listings-single-page.html" />
+    <Content Include="listeo\pages-404.html" />
+    <Content Include="listeo\pages-add-listing.html" />
+    <Content Include="listeo\pages-blog-post.html" />
+    <Content Include="listeo\pages-blog.html" />
+    <Content Include="listeo\pages-booking-confirmation.html" />
+    <Content Include="listeo\pages-booking.html" />
+    <Content Include="listeo\pages-coming-soon.html" />
+    <Content Include="listeo\pages-contact.html" />
+    <Content Include="listeo\pages-elements.html" />
+    <Content Include="listeo\pages-icons.html" />
+    <Content Include="listeo\pages-masonry-filtering.html" />
+    <Content Include="listeo\pages-pages-blog-post.html" />
+    <Content Include="listeo\pages-pricing-tables.html" />
+    <Content Include="listeo\pages-typography.html" />
+    <Content Include="listeo\pages-user-profile.html" />
+    <Content Include="listeo\scripts\chosen.min.js" />
+    <Content Include="listeo\scripts\counterup.min.js" />
+    <Content Include="listeo\scripts\custom.js" />
+    <Content Include="listeo\scripts\daterangepicker.js" />
+    <Content Include="listeo\scripts\dropzone.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.actions.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.carousel.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.kenburn.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.layeranimation.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.migration.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.navigation.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.parallax.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.slideanims.min.js" />
+    <Content Include="listeo\scripts\extensions\revolution.extension.video.min.js" />
+    <Content Include="listeo\scripts\infobox.min.js" />
+    <Content Include="listeo\scripts\isotope.min.js" />
+    <Content Include="listeo\scripts\jquery-2.2.0.min.js" />
+    <Content Include="listeo\scripts\jquery-ui.min.js" />
+    <Content Include="listeo\scripts\jquery.countdown.min.js" />
+    <Content Include="listeo\scripts\magnific-popup.min.js" />
+    <Content Include="listeo\scripts\maps.js" />
+    <Content Include="listeo\scripts\markerclusterer.js" />
+    <Content Include="listeo\scripts\mmenu.min.js" />
+    <Content Include="listeo\scripts\moment.min.js" />
+    <Content Include="listeo\scripts\quantityButtons.js" />
+    <Content Include="listeo\scripts\rangeslider.min.js" />
+    <Content Include="listeo\scripts\slick.min.js" />
+    <Content Include="listeo\scripts\switcher.js" />
+    <Content Include="listeo\scripts\themepunch.revolution.min.js" />
+    <Content Include="listeo\scripts\themepunch.tools.min.js" />
+    <Content Include="listeo\scripts\tooltips.min.js" />
+    <Content Include="listeo\scripts\waypoints.min.js" />
+    <Content Include="Register.aspx" />
+    <Content Include="Rooms-List.aspx" />
+    <Content Include="Rooms.aspx" />
+    <Content Include="Scrap.aspx" />
+    <Content Include="scripts\chosen.min.js" />
+    <Content Include="scripts\counterup.min.js" />
+    <Content Include="scripts\custom.js" />
+    <Content Include="scripts\daterangepicker.js" />
+    <Content Include="scripts\dropzone.js" />
+    <Content Include="scripts\extensions\revolution.extension.actions.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.carousel.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.kenburn.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.layeranimation.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.migration.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.navigation.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.parallax.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.slideanims.min.js" />
+    <Content Include="scripts\extensions\revolution.extension.video.min.js" />
+    <Content Include="scripts\infobox.min.js" />
+    <Content Include="scripts\isotope.min.js" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="scripts\jquery-1.4.1.js" />
+    <Content Include="scripts\jquery-1.4.1.min.js" />
+    <Content Include="scripts\jquery-2.2.0.min.js" />
+    <Content Include="scripts\jquery-ui.min.js" />
+    <Content Include="scripts\jquery.countdown.min.js" />
+    <Content Include="scripts\jquery.daterangepicker\date-en-US.js" />
+    <Content Include="scripts\jquery.daterangepicker\date.js" />
+    <Content Include="scripts\jquery.daterangepicker\daterangepicker.jQuery.js" />
+    <Content Include="scripts\jquery.daterangepicker\time.js" />
+    <Content Include="scripts\magnific-popup.min.js" />
+    <Content Include="scripts\maps.js" />
+    <Content Include="scripts\markerclusterer.js" />
+    <Content Include="scripts\mmenu.min.js" />
+    <Content Include="scripts\moment.min.js" />
+    <Content Include="scripts\quantityButtons.js" />
+    <Content Include="scripts\rangeslider.min.js" />
+    <Content Include="scripts\slick.min.js" />
+    <Content Include="scripts\switcher.js" />
+    <Content Include="scripts\themepunch.revolution.min.js" />
+    <Content Include="scripts\themepunch.tools.min.js" />
+    <Content Include="scripts\tooltips.min.js" />
+    <Content Include="scripts\waypoints.min.js" />
+    <Content Include="Veera.asmx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Book.aspx.cs">
+      <DependentUpon>Book.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Book.aspx.designer.cs">
+      <DependentUpon>Book.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HotelList-Loader.aspx.cs">
+      <DependentUpon>HotelList-Loader.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HotelList-Loader.aspx.designer.cs">
+      <DependentUpon>HotelList-Loader.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="image-hotel.aspx.cs">
+      <DependentUpon>image-hotel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="image-hotel.aspx.designer.cs">
+      <DependentUpon>image-hotel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Image-Service.asmx.cs">
+      <DependentUpon>Image-Service.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Rooms-List.aspx.cs">
+      <DependentUpon>Rooms-List.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rooms-List.aspx.designer.cs">
+      <DependentUpon>Rooms-List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Scrap.aspx.cs">
+      <DependentUpon>Scrap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Scrap.aspx.designer.cs">
+      <DependentUpon>Scrap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sp_RH.cs" />
+    <Compile Include="Sp_Xtools.cs" />
+    <Compile Include="Sp_Veera.cs" />
+    <Compile Include="Dash-booking.aspx.cs">
+      <DependentUpon>Dash-booking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dash-booking.aspx.designer.cs">
+      <DependentUpon>Dash-booking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dash-Home.aspx.cs">
+      <DependentUpon>Dash-Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dash-Home.aspx.designer.cs">
+      <DependentUpon>Dash-Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dash-Message.aspx.cs">
+      <DependentUpon>Dash-Message.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dash-Message.aspx.designer.cs">
+      <DependentUpon>Dash-Message.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dash.Master.cs">
+      <DependentUpon>Dash.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dash.Master.designer.cs">
+      <DependentUpon>Dash.Master</DependentUpon>
+    </Compile>
+    <Compile Include="HotelList.aspx.cs">
+      <DependentUpon>HotelList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HotelList.aspx.designer.cs">
+      <DependentUpon>HotelList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sp_Merger.cs" />
+    <Compile Include="Sp_Multi.cs" />
+    <Compile Include="Rooms.aspx.cs">
+      <DependentUpon>Rooms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rooms.aspx.designer.cs">
+      <DependentUpon>Rooms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Veera.asmx.cs">
+      <DependentUpon>Veera.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Content Include="helper\Merger.cs" />
+    <Content Include="helper\Multi.cs" />
+    <Content Include="helper\Veera.cs" />
+    <Compile Include="API\HotelSearch.asmx.cs">
+      <DependentUpon>HotelSearch.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel.aspx.cs">
+      <DependentUpon>Hotel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hotel.aspx.designer.cs">
+      <DependentUpon>Hotel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="master.Master.cs">
+      <DependentUpon>master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="master.Master.designer.cs">
+      <DependentUpon>master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <Content Include="listeo\fonts\fontawesome-webfont5b62.eot" />
+    <Content Include="listeo\fonts\fontawesome-webfont5b62.ttf" />
+    <Content Include="listeo\fonts\fontawesome-webfont5b62.woff" />
+    <Content Include="listeo\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="listeo\fonts\fontello.eot" />
+    <Content Include="listeo\fonts\fontello.ttf" />
+    <Content Include="listeo\fonts\fontello.woff" />
+    <Content Include="listeo\fonts\iconsmindca27.eot" />
+    <Content Include="listeo\fonts\iconsmindca27.ttf" />
+    <Content Include="listeo\fonts\iconsmindca27.woff" />
+    <Content Include="listeo\fonts\iconsmindd41d.eot" />
+    <Content Include="listeo\fonts\simple-line-iconsc05f.eot" />
+    <Content Include="listeo\fonts\simple-line-iconsc05f.ttf" />
+    <Content Include="listeo\fonts\simple-line-iconsc05f.woff" />
+    <Content Include="master.Master" />
+    <Content Include="fonts\fontawesome-webfont5b62.eot" />
+    <Content Include="fonts\fontawesome-webfont5b62.ttf" />
+    <Content Include="fonts\fontawesome-webfont5b62.woff" />
+    <Content Include="fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="fonts\fontello.eot" />
+    <Content Include="fonts\fontello.ttf" />
+    <Content Include="fonts\fontello.woff" />
+    <Content Include="fonts\iconsmindca27.eot" />
+    <Content Include="fonts\iconsmindca27.ttf" />
+    <Content Include="fonts\iconsmindca27.woff" />
+    <Content Include="fonts\iconsmindd41d.eot" />
+    <Content Include="fonts\simple-line-iconsc05f.eot" />
+    <Content Include="fonts\simple-line-iconsc05f.ttf" />
+    <Content Include="fonts\simple-line-iconsc05f.woff" />
+    <Content Include="Dash.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Code\" />
+    <Folder Include="App_Data\" />
+    <Folder Include="Cache\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="listeo\Models\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52603</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52603/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

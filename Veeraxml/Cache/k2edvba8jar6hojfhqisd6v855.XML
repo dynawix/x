@@ -1,0 +1,1359 @@
+<DocumentElement>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-e35bb1a7-cddf-5a1c-9a58-8163528b7ece</Room_ID>
+    <Room_Name>Quadruple Suite</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;460&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;460&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;460&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;460&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>460</Room_TotalPrice>
+    <Room_BasePrice>460</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-329a3479-e155-584b-b504-0563e8a958f7</Room_ID>
+    <Room_Name>Quadruple Suite</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;470&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;470&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;470&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;470&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>470</Room_TotalPrice>
+    <Room_BasePrice>470</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-40bfd0dc-42ae-5ac7-b996-f1e8ed00bdfd</Room_ID>
+    <Room_Name>Premium Quadruple Suite</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;557&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;557&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;557&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;557&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>557</Room_TotalPrice>
+    <Room_BasePrice>557</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-27500a92-ee8f-5c44-90f8-a935c36641ae</Room_ID>
+    <Room_Name>Premium Quadruple Suite</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;569&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;569&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;569&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;569&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>569</Room_TotalPrice>
+    <Room_BasePrice>569</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-c7508e6a-9a61-5216-95d6-ea6de116d328</Room_ID>
+    <Room_Name>Quadruple Suite</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;626&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;626&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;626&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;626&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>626</Room_TotalPrice>
+    <Room_BasePrice>626</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-4d5ad93f-e0f6-572e-aae0-f4636dcf6d8d</Room_ID>
+    <Room_Name>Quadruple Suite</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;639&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;639&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;639&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;639&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>639</Room_TotalPrice>
+    <Room_BasePrice>639</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-dbb893d1-0817-58fc-b875-ffd57d5bf77e</Room_ID>
+    <Room_Name>Premium Quadruple Suite</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;723&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;723&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;723&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;723&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>723</Room_TotalPrice>
+    <Room_BasePrice>723</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-663c8789-3b49-5157-b7af-b25dd713a9c2</Room_ID>
+    <Room_Name>Premium Quadruple Suite</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;738&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;738&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-22T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-22T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-22T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;738&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;738&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>738</Room_TotalPrice>
+    <Room_BasePrice>738</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-d3a425c5-ef8e-5aaa-b703-b78b77cb8fdc</Room_ID>
+    <Room_Name>Double Suite with Garden View  (Double bed) (terrace)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;765&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;765&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;765&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;765&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>765</Room_TotalPrice>
+    <Room_BasePrice>765</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sofitel legend old cataract aswan</Hotel_ID>
+    <Hotel_Name>sofitel legend old cataract aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-5ff98577-ee9b-585e-816e-c04d89741007</Room_ID>
+    <Room_Name>Double Suite with Garden View  (Double bed) (terrace)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;844&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;844&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;844&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;844&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>844</Room_TotalPrice>
+    <Room_BasePrice>844</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>pyramisa isis island aswan resort  spa</Hotel_ID>
+    <Hotel_Name>pyramisa isis island aswan resort  spa</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-5810a733-bf06-5829-a89f-698436a3f5c9</Room_ID>
+    <Room_Name>Double Junior Suite (Double bed)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;138&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;138&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;138&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;138&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>138</Room_TotalPrice>
+    <Room_BasePrice>138</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>pyramisa isis island aswan resort  spa</Hotel_ID>
+    <Hotel_Name>pyramisa isis island aswan resort  spa</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-90165499-a9d8-5c6d-8208-0d35b97b6c19</Room_ID>
+    <Room_Name>Double Junior Suite (Double bed)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;141&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;141&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;141&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;141&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>141</Room_TotalPrice>
+    <Room_BasePrice>141</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>pyramisa isis island aswan resort  spa</Hotel_ID>
+    <Hotel_Name>pyramisa isis island aswan resort  spa</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-e8487ffb-36af-5f02-8952-b46242ec65ba</Room_ID>
+    <Room_Name>Double Junior Suite (Double bed)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;157&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;157&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;157&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;157&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>157</Room_TotalPrice>
+    <Room_BasePrice>157</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>pyramisa isis island aswan resort  spa</Hotel_ID>
+    <Hotel_Name>pyramisa isis island aswan resort  spa</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-15374212-fcdb-56ed-bd39-da18591d9a7c</Room_ID>
+    <Room_Name>Double Junior Suite (Double bed)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>160</Room_TotalPrice>
+    <Room_BasePrice>160</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>orchida st george hotel</Hotel_ID>
+    <Hotel_Name>orchida st george hotel</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-11984886-068e-5929-b811-815f8124596f</Room_ID>
+    <Room_Name>Standard Quadruple Family Room with River View </Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;59&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;59&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;59&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;59&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>59</Room_TotalPrice>
+    <Room_BasePrice>59</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>orchida st george hotel</Hotel_ID>
+    <Hotel_Name>orchida st george hotel</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-cf4d2876-2a96-5f24-8bc8-043071be8cf2</Room_ID>
+    <Room_Name>Standard Quadruple Family Room with River View </Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;60&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;60&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;60&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;60&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>60</Room_TotalPrice>
+    <Room_BasePrice>60</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sehel house</Hotel_ID>
+    <Hotel_Name>sehel house</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-9f55e091-158b-53e9-831a-9ecc1038517f</Room_ID>
+    <Room_Name>Standard Triple Room with River View  (extra-bed, smoking)</Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;41&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;41&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;41&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;41&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>41</Room_TotalPrice>
+    <Room_BasePrice>41</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sehel house</Hotel_ID>
+    <Hotel_Name>sehel house</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-623325d4-a729-51f3-994c-d588fb9ab7b9</Room_ID>
+    <Room_Name>Standard Triple Room with River View  (extra-bed, smoking)</Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;42&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;42&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;42&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;42&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>42</Room_TotalPrice>
+    <Room_BasePrice>42</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sehel house</Hotel_ID>
+    <Hotel_Name>sehel house</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-9027fa5a-92ac-5eb0-8159-411574fb8be4</Room_ID>
+    <Room_Name>Standard Quadruple Family Room with Garden View  (extra-bed, smoking)</Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;50&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;50&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;50&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;50&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>50</Room_TotalPrice>
+    <Room_BasePrice>50</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>sehel house</Hotel_ID>
+    <Hotel_Name>sehel house</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-e7118b29-7b95-5147-8766-cf531c310c89</Room_ID>
+    <Room_Name>Standard Quadruple Family Room with Garden View  (extra-bed, smoking)</Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;52&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;52&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;52&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;52&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>52</Room_TotalPrice>
+    <Room_BasePrice>52</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-4bdea0bb-f3d3-5bdb-b8f6-f580ca30b880</Room_ID>
+    <Room_Name>Standard Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;112&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;112&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;112&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;112&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>112</Room_TotalPrice>
+    <Room_BasePrice>112</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-523cbaeb-ab6f-5228-b6cc-8a05e691b6d6</Room_ID>
+    <Room_Name>Standard Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;114&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;114&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;114&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;114&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>114</Room_TotalPrice>
+    <Room_BasePrice>114</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-5772e030-e695-5f31-9e22-b76feeeff41b</Room_ID>
+    <Room_Name>Superior Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;145&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;145&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;145&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;145&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>145</Room_TotalPrice>
+    <Room_BasePrice>145</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-8b9c199b-23f5-5622-885c-0851238f88f0</Room_ID>
+    <Room_Name>Superior Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;148&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;148&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;148&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;148&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>148</Room_TotalPrice>
+    <Room_BasePrice>148</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-d5ddb88a-1d03-5000-8ca0-ffde1685e827</Room_ID>
+    <Room_Name>Standard Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;156&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;156&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;156&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;156&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>156</Room_TotalPrice>
+    <Room_BasePrice>156</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-c2e6c5b4-f445-5ef8-b9ca-accf38792dc7</Room_ID>
+    <Room_Name>Standard Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;160&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>160</Room_TotalPrice>
+    <Room_BasePrice>160</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-46edefb7-6ce1-562d-b13e-d272444f538d</Room_ID>
+    <Room_Name>Superior Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;190&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;190&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;190&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;190&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>190</Room_TotalPrice>
+    <Room_BasePrice>190</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-e7154d14-b03c-5d27-9152-18826abd0891</Room_ID>
+    <Room_Name>Superior Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;194&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;194&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;194&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;194&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>194</Room_TotalPrice>
+    <Room_BasePrice>194</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-6b02b516-4687-55e8-acc1-374631732365</Room_ID>
+    <Room_Name>Standard Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;201&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;201&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;201&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;201&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>201</Room_TotalPrice>
+    <Room_BasePrice>201</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-1c24d759-803b-58dc-9080-c4acfd9c4b39</Room_ID>
+    <Room_Name>Standard Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;205&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;205&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;205&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;205&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>205</Room_TotalPrice>
+    <Room_BasePrice>205</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-1a43cc77-96b7-5e3e-bdbc-6fd35e5e2361</Room_ID>
+    <Room_Name>Superior Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;234&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;234&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;234&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;234&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>234</Room_TotalPrice>
+    <Room_BasePrice>234</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-954c29b1-3d41-57aa-bd56-2f95f2ac16e5</Room_ID>
+    <Room_Name>Superior Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;239&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;239&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;239&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;239&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>239</Room_TotalPrice>
+    <Room_BasePrice>239</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-3ede3fdc-41d6-5264-a9ce-fbfba2ddb01c</Room_ID>
+    <Room_Name>Twin Junior Suite (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>354</Room_TotalPrice>
+    <Room_BasePrice>354</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-b9d2c34b-ca9c-536c-92e8-acd5fbbea2b2</Room_ID>
+    <Room_Name>Double Junior Suite (Double bed)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;354&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>354</Room_TotalPrice>
+    <Room_BasePrice>354</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-b08df464-076e-55a2-84ae-921f183acc6d</Room_ID>
+    <Room_Name>Twin Junior Suite (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>362</Room_TotalPrice>
+    <Room_BasePrice>362</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-9aa6b8a2-9b1f-5344-905e-30573e60119d</Room_ID>
+    <Room_Name>Double Junior Suite (Double bed)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;362&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>362</Room_TotalPrice>
+    <Room_BasePrice>362</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-0c907912-fbba-5ab5-9542-945b90220812</Room_ID>
+    <Room_Name>Villa</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;823&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;823&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;823&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;823&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>823</Room_TotalPrice>
+    <Room_BasePrice>823</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>movenpick resort aswan</Hotel_ID>
+    <Hotel_Name>movenpick resort aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-374b0a5b-15cd-5b2c-b780-01a0fa426aa4</Room_ID>
+    <Room_Name>Villa</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;841&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;841&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;841&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;841&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>841</Room_TotalPrice>
+    <Room_BasePrice>841</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-44e7b61c-a579-553b-bd76-b6e9e25850c7</Room_ID>
+    <Room_Name>Twin Room (category assigned at check-in) (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;61&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;61&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;61&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;61&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>61</Room_TotalPrice>
+    <Room_BasePrice>61</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-fe2fd011-2598-5d2b-a1c3-09bd02e7559c</Room_ID>
+    <Room_Name>Twin Room (category assigned at check-in) (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;62&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;62&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;62&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;62&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>62</Room_TotalPrice>
+    <Room_BasePrice>62</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-d95c36ea-8f9c-5af2-930c-535eef51184d</Room_ID>
+    <Room_Name>Deluxe Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;65&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;65&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;65&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;65&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>65</Room_TotalPrice>
+    <Room_BasePrice>65</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-584acbf5-0983-5d35-9321-a920d8a6857f</Room_ID>
+    <Room_Name>Deluxe Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;66&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;66&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;66&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;66&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>66</Room_TotalPrice>
+    <Room_BasePrice>66</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-630e329c-8252-5c8f-b48f-22ce2a6ea4f2</Room_ID>
+    <Room_Name>Twin Room (category assigned at check-in) (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;81&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;81&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;81&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;81&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>81</Room_TotalPrice>
+    <Room_BasePrice>81</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-8b15fe97-415c-5641-b466-51fdc50ff79a</Room_ID>
+    <Room_Name>Twin Room (category assigned at check-in) (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;82&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;82&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;82&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;82&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>82</Room_TotalPrice>
+    <Room_BasePrice>82</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-11f8c9b5-b873-551d-920e-c9d26cc13158</Room_ID>
+    <Room_Name>Deluxe Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;85&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;85&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;85&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;85&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>85</Room_TotalPrice>
+    <Room_BasePrice>85</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-a1804f6d-33da-5a82-be6d-e0f3062f83c2</Room_ID>
+    <Room_Name>Deluxe Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;87&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;87&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;87&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;87&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>87</Room_TotalPrice>
+    <Room_BasePrice>87</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-72697608-4ac9-525f-bcfc-d1c6be164ebf</Room_ID>
+    <Room_Name>Deluxe Double Room with River View  (Double bed)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;92&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;92&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;92&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;92&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>92</Room_TotalPrice>
+    <Room_BasePrice>92</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-6aba47f7-cc42-5d8e-b1af-b7993c26405b</Room_ID>
+    <Room_Name>Deluxe Double Room with River View  (Double bed)</Room_Name>
+    <Meal_Code>breakfast-buffet</Meal_Code>
+    <Meal_Name>breakfast-buffet</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-23T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-23T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-23T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;94&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;94&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-23T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-23T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-23T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;94&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;94&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>94</Room_TotalPrice>
+    <Room_BasePrice>94</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-f7dfed61-ba98-5f8c-a619-1f85b4d50034</Room_ID>
+    <Room_Name>Deluxe Double Room with River View  (Double bed)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;101&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;101&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;101&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;101&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>101</Room_TotalPrice>
+    <Room_BasePrice>101</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-75f53898-7237-5ae9-9c9d-140af5461708</Room_ID>
+    <Room_Name>Deluxe Double Room with River View  (Double bed)</Room_Name>
+    <Meal_Code>half-board</Meal_Code>
+    <Meal_Name>half-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-23T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-23T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-23T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-23T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-23T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-23T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>103</Room_TotalPrice>
+    <Room_BasePrice>103</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-220fd925-5f7a-57cc-a24b-7cebcd6c2b49</Room_ID>
+    <Room_Name>Twin Room (category assigned at check-in) (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;103&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>103</Room_TotalPrice>
+    <Room_BasePrice>103</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-e3f3018f-f5fe-5247-aa01-19231d70ec72</Room_ID>
+    <Room_Name>Twin Room (category assigned at check-in) (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;105&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;105&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;105&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;105&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>105</Room_TotalPrice>
+    <Room_BasePrice>105</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-5abaf67a-db55-57a3-97cd-21f58fbda33a</Room_ID>
+    <Room_Name>Deluxe Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;107&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;107&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;107&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;107&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>107</Room_TotalPrice>
+    <Room_BasePrice>107</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>basma hotel aswan</Hotel_ID>
+    <Hotel_Name>basma hotel aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-b1bce3ce-c65d-5fe0-b77f-f31bf8fa381d</Room_ID>
+    <Room_Name>Deluxe Twin Room (2 twin beds)</Room_Name>
+    <Meal_Code>full-board</Meal_Code>
+    <Meal_Name>full-board</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;110&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;110&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-17T16:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-17T16:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-17T16:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;110&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;110&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>110</Room_TotalPrice>
+    <Room_BasePrice>110</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>taharka nubian house aswan</Hotel_ID>
+    <Hotel_Name>taharka nubian house aswan</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-868742c5-fce2-5ac1-bb77-0e015722be32</Room_ID>
+    <Room_Name>Villa with 2 rooms and River View</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;25&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;25&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;25&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;25&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>25</Room_TotalPrice>
+    <Room_BasePrice>25</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>keylany hotel</Hotel_ID>
+    <Hotel_Name>keylany hotel</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-78a23f39-7f12-5df4-bd9e-079919bece9f</Room_ID>
+    <Room_Name>Standard Quadruple Room</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;47&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;47&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;47&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;47&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>47</Room_TotalPrice>
+    <Room_BasePrice>47</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>keylany hotel</Hotel_ID>
+    <Hotel_Name>keylany hotel</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-070525e7-258a-550b-8070-c4b0ab7ecefa</Room_ID>
+    <Room_Name>Standard Quadruple Room</Room_Name>
+    <Meal_Code>breakfast</Meal_Code>
+    <Meal_Name>breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;48&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;48&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-24T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-24T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-24T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;48&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;48&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>48</Room_TotalPrice>
+    <Room_BasePrice>48</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>hadouta masreya nubian guest house</Hotel_ID>
+    <Hotel_Name>hadouta masreya nubian guest house</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-60abae56-f2bc-50b4-87ca-fc102220d5b4</Room_ID>
+    <Room_Name>Standard Quadruple Room</Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;100&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;100&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before /&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;100&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;100&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>100</Room_TotalPrice>
+    <Room_BasePrice>100</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+  <Veera>
+    <Hotel_ID>hadouta masreya nubian guest house</Hotel_ID>
+    <Hotel_Name>hadouta masreya nubian guest house</Hotel_Name>
+    <Hotel_Category />
+    <Hotel_Address />
+    <Hotel_Phone />
+    <Hotel_City_Name />
+    <Hotel_City_Code />
+    <Hotel_Location_LAT />
+    <Hotel_Location_LNG />
+    <Room_ID>h-325f33f2-f524-5a63-9884-70f2aaec59e9</Room_ID>
+    <Room_Name>Standard Quadruple Room</Room_Name>
+    <Meal_Code>continental-breakfast</Meal_Code>
+    <Meal_Name>continental-breakfast</Meal_Name>
+    <Cancellation_Deadline>&lt;free_cancellation_before&gt;2018-09-18T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-18T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-18T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;102&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;102&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Deadline>
+    <Cancellation_Policy>&lt;free_cancellation_before&gt;2018-09-18T10:00:00&lt;/free_cancellation_before&gt;&lt;policies&gt;&lt;start_at /&gt;&lt;end_at&gt;2018-09-18T10:00:00&lt;/end_at&gt;&lt;penalty&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;percent&gt;0&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;&lt;policies&gt;&lt;start_at&gt;2018-09-18T10:00:00&lt;/start_at&gt;&lt;end_at /&gt;&lt;penalty&gt;&lt;amount&gt;102&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty&gt;&lt;penalty_in_charge&gt;&lt;amount&gt;102&lt;/amount&gt;&lt;percent&gt;100&lt;/percent&gt;&lt;currency_code&gt;USD&lt;/currency_code&gt;&lt;currency_rate_to_rub&gt;68.47&lt;/currency_rate_to_rub&gt;&lt;/penalty_in_charge&gt;&lt;/policies&gt;</Cancellation_Policy>
+    <Room_TotalPrice>102</Room_TotalPrice>
+    <Room_BasePrice>102</Room_BasePrice>
+    <Room_BasePrice_Currency>USD</Room_BasePrice_Currency>
+    <Supplier>RH</Supplier>
+    <SessionId />
+    <SearchToken />
+  </Veera>
+</DocumentElement>

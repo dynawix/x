@@ -1,0 +1,1091 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+    <_PublishTargetUrl>E:\Publish\VeeraXML</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="API/HotelSearch.asmx">
+      <publishTime>08/21/2018 17:13:50</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>09/12/2019 17:08:19</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>09/12/2019 17:08:19</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>09/21/2018 21:00:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 21:33:56</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>09/22/2018 11:53:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="bin/Veeraxml.dll">
+      <publishTime>09/12/2019 17:08:03</publishTime>
+    </File>
+    <File Include="Book.aspx">
+      <publishTime>09/11/2018 05:09:39</publishTime>
+    </File>
+    <File Include="Content/jquery.daterangepicker/ui.daterangepicker.css">
+      <publishTime>08/25/2018 04:57:32</publishTime>
+    </File>
+    <File Include="css/assets/coloredbg.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/assets/gridtile.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/assets/gridtile_3x3.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/assets/gridtile_3x3_white.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/assets/gridtile_white.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.css">
+      <publishTime>08/14/2018 21:03:05</publishTime>
+    </File>
+    <File Include="css/colors/main.css">
+      <publishTime>08/14/2018 21:03:11</publishTime>
+    </File>
+    <File Include="css/icons.css">
+      <publishTime>08/14/2018 21:03:05</publishTime>
+    </File>
+    <File Include="css/img/loading.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/invoice.css">
+      <publishTime>08/14/2018 21:03:05</publishTime>
+    </File>
+    <File Include="css/plugins/closedhand.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/plugins/openhand.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="css/plugins/revolutionslider.css">
+      <publishTime>08/14/2018 21:03:15</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>08/14/2018 21:03:07</publishTime>
+    </File>
+    <File Include="Dash-booking.aspx">
+      <publishTime>08/21/2018 20:33:33</publishTime>
+    </File>
+    <File Include="Dash-Home.aspx">
+      <publishTime>08/21/2018 20:22:20</publishTime>
+    </File>
+    <File Include="Dash-Message.aspx">
+      <publishTime>08/21/2018 20:27:14</publishTime>
+    </File>
+    <File Include="Dash.Master">
+      <publishTime>09/16/2018 05:59:13</publishTime>
+    </File>
+    <File Include="daterange/daterangepicker.min.css">
+      <publishTime>08/25/2018 05:00:27</publishTime>
+    </File>
+    <File Include="daterange/font-awesome.min.css">
+      <publishTime>08/25/2018 05:00:27</publishTime>
+    </File>
+    <File Include="daterange/jquery.daterangepicker.js">
+      <publishTime>08/25/2018 05:00:27</publishTime>
+    </File>
+    <File Include="daterange/jquery.min.js">
+      <publishTime>08/25/2018 05:00:27</publishTime>
+    </File>
+    <File Include="daterange/moment.min.js">
+      <publishTime>08/25/2018 05:00:27</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/06/2018 07:40:10</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62.eot">
+      <publishTime>08/13/2018 16:15:03</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62.html">
+      <publishTime>08/21/2018 14:55:41</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62.svg">
+      <publishTime>08/13/2018 16:15:03</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62.ttf">
+      <publishTime>08/13/2018 16:15:04</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62.woff">
+      <publishTime>08/13/2018 16:15:04</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfontd41d.eot">
+      <publishTime>08/13/2018 16:15:03</publishTime>
+    </File>
+    <File Include="fonts/fontello.eot">
+      <publishTime>08/13/2018 16:15:05</publishTime>
+    </File>
+    <File Include="fonts/fontello.svg">
+      <publishTime>08/13/2018 16:15:06</publishTime>
+    </File>
+    <File Include="fonts/fontello.ttf">
+      <publishTime>08/13/2018 16:15:06</publishTime>
+    </File>
+    <File Include="fonts/fontello.woff">
+      <publishTime>08/13/2018 16:15:07</publishTime>
+    </File>
+    <File Include="fonts/iconsmindca27.eot">
+      <publishTime>08/13/2018 16:15:09</publishTime>
+    </File>
+    <File Include="fonts/iconsmindca27.svg">
+      <publishTime>08/13/2018 16:15:12</publishTime>
+    </File>
+    <File Include="fonts/iconsmindca27.ttf">
+      <publishTime>08/13/2018 16:15:14</publishTime>
+    </File>
+    <File Include="fonts/iconsmindca27.woff">
+      <publishTime>08/13/2018 16:15:15</publishTime>
+    </File>
+    <File Include="fonts/iconsmindd41d.eot">
+      <publishTime>08/13/2018 16:15:09</publishTime>
+    </File>
+    <File Include="fonts/simple-line-iconsc05f.eot">
+      <publishTime>08/13/2018 16:15:15</publishTime>
+    </File>
+    <File Include="fonts/simple-line-iconsc05f.svg">
+      <publishTime>08/13/2018 16:15:16</publishTime>
+    </File>
+    <File Include="fonts/simple-line-iconsc05f.ttf">
+      <publishTime>08/13/2018 16:15:16</publishTime>
+    </File>
+    <File Include="fonts/simple-line-iconsc05f.woff">
+      <publishTime>08/13/2018 16:15:17</publishTime>
+    </File>
+    <File Include="Hotel.aspx">
+      <publishTime>10/11/2018 03:46:12</publishTime>
+    </File>
+    <File Include="HotelList-Loader.aspx">
+      <publishTime>10/06/2018 17:23:07</publishTime>
+    </File>
+    <File Include="HotelList.aspx">
+      <publishTime>09/29/2018 19:18:15</publishTime>
+    </File>
+    <File Include="image-hotel.aspx">
+      <publishTime>09/04/2018 08:07:00</publishTime>
+    </File>
+    <File Include="Image-Service.asmx">
+      <publishTime>09/01/2018 05:12:40</publishTime>
+    </File>
+    <File Include="images/blog-compact-post-01.jpg">
+      <publishTime>08/13/2018 16:15:19</publishTime>
+    </File>
+    <File Include="images/blog-compact-post-02.jpg">
+      <publishTime>08/13/2018 16:15:19</publishTime>
+    </File>
+    <File Include="images/blog-compact-post-03.jpg">
+      <publishTime>08/13/2018 16:15:20</publishTime>
+    </File>
+    <File Include="images/blog-post-01.jpg">
+      <publishTime>08/13/2018 16:15:20</publishTime>
+    </File>
+    <File Include="images/blog-post-02.jpg">
+      <publishTime>08/13/2018 16:15:21</publishTime>
+    </File>
+    <File Include="images/blog-post-03.jpg">
+      <publishTime>08/13/2018 16:15:22</publishTime>
+    </File>
+    <File Include="images/blog-widget-01.jpg">
+      <publishTime>08/13/2018 16:15:22</publishTime>
+    </File>
+    <File Include="images/blog-widget-02.jpg">
+      <publishTime>08/13/2018 16:15:22</publishTime>
+    </File>
+    <File Include="images/blog-widget-03.jpg">
+      <publishTime>08/13/2018 16:15:23</publishTime>
+    </File>
+    <File Include="images/category-box-01.jpg">
+      <publishTime>08/13/2018 16:15:23</publishTime>
+    </File>
+    <File Include="images/category-box-02.jpg">
+      <publishTime>08/13/2018 16:15:24</publishTime>
+    </File>
+    <File Include="images/category-box-03.jpg">
+      <publishTime>08/13/2018 16:15:24</publishTime>
+    </File>
+    <File Include="images/category-box-04.jpg">
+      <publishTime>08/13/2018 16:15:25</publishTime>
+    </File>
+    <File Include="images/category-box-05.jpg">
+      <publishTime>08/13/2018 16:15:26</publishTime>
+    </File>
+    <File Include="images/category-box-06.jpg">
+      <publishTime>08/13/2018 16:15:27</publishTime>
+    </File>
+    <File Include="images/dashboard-avatar.jpg">
+      <publishTime>08/13/2018 16:15:26</publishTime>
+    </File>
+    <File Include="images/happy-client-01.jpg">
+      <publishTime>08/13/2018 16:15:27</publishTime>
+    </File>
+    <File Include="images/happy-client-02.jpg">
+      <publishTime>08/13/2018 16:15:27</publishTime>
+    </File>
+    <File Include="images/happy-client-03.jpg">
+      <publishTime>08/13/2018 16:15:28</publishTime>
+    </File>
+    <File Include="images/listing-item-01.jpg">
+      <publishTime>08/13/2018 16:15:28</publishTime>
+    </File>
+    <File Include="images/listing-item-02.jpg">
+      <publishTime>08/13/2018 16:15:30</publishTime>
+    </File>
+    <File Include="images/listing-item-03.jpg">
+      <publishTime>08/13/2018 16:15:32</publishTime>
+    </File>
+    <File Include="images/listing-item-04.jpg">
+      <publishTime>08/13/2018 16:15:33</publishTime>
+    </File>
+    <File Include="images/listing-item-05.jpg">
+      <publishTime>08/13/2018 16:15:34</publishTime>
+    </File>
+    <File Include="images/listing-item-06.jpg">
+      <publishTime>08/13/2018 16:15:36</publishTime>
+    </File>
+    <File Include="images/loader1.gif">
+      <publishTime>09/16/2018 06:45:13</publishTime>
+    </File>
+    <File Include="images/logo-01.png">
+      <publishTime>08/13/2018 16:15:37</publishTime>
+    </File>
+    <File Include="images/logo-02.png">
+      <publishTime>08/13/2018 16:15:38</publishTime>
+    </File>
+    <File Include="images/logo-03.png">
+      <publishTime>08/13/2018 16:15:38</publishTime>
+    </File>
+    <File Include="images/logo-04.png">
+      <publishTime>08/13/2018 16:15:38</publishTime>
+    </File>
+    <File Include="images/logo-05.png">
+      <publishTime>08/13/2018 16:15:39</publishTime>
+    </File>
+    <File Include="images/logo-06.png">
+      <publishTime>08/13/2018 16:15:39</publishTime>
+    </File>
+    <File Include="images/logo-07.png">
+      <publishTime>08/13/2018 16:15:40</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>09/13/2018 12:29:37</publishTime>
+    </File>
+    <File Include="images/main-search-background-01.jpg">
+      <publishTime>08/13/2018 16:15:42</publishTime>
+    </File>
+    <File Include="images/main-search-video-poster.jpg">
+      <publishTime>08/13/2018 16:15:42</publishTime>
+    </File>
+    <File Include="images/main-search-video.mp4">
+      <publishTime>08/13/2018 16:15:46</publishTime>
+    </File>
+    <File Include="images/our-office.jpg">
+      <publishTime>08/13/2018 16:15:43</publishTime>
+    </File>
+    <File Include="images/plus-icon.svg">
+      <publishTime>08/13/2018 16:15:44</publishTime>
+    </File>
+    <File Include="images/popular-location-01.jpg">
+      <publishTime>08/13/2018 16:15:45</publishTime>
+    </File>
+    <File Include="images/popular-location-02.jpg">
+      <publishTime>08/13/2018 16:15:46</publishTime>
+    </File>
+    <File Include="images/popular-location-03.jpg">
+      <publishTime>08/13/2018 16:15:47</publishTime>
+    </File>
+    <File Include="images/popular-location-04.jpg">
+      <publishTime>08/13/2018 16:15:48</publishTime>
+    </File>
+    <File Include="images/review-image-01.jpg">
+      <publishTime>08/13/2018 16:15:48</publishTime>
+    </File>
+    <File Include="images/review-image-02.jpg">
+      <publishTime>08/13/2018 16:15:49</publishTime>
+    </File>
+    <File Include="images/review-image-03.jpg">
+      <publishTime>08/13/2018 16:15:49</publishTime>
+    </File>
+    <File Include="images/reviews-avatar.jpg">
+      <publishTime>08/13/2018 16:15:49</publishTime>
+    </File>
+    <File Include="images/single-listing-01.jpg">
+      <publishTime>08/13/2018 16:15:50</publishTime>
+    </File>
+    <File Include="images/single-listing-01a.jpg">
+      <publishTime>08/13/2018 16:15:51</publishTime>
+    </File>
+    <File Include="images/single-listing-02.jpg">
+      <publishTime>08/13/2018 16:15:51</publishTime>
+    </File>
+    <File Include="images/single-listing-02a.jpg">
+      <publishTime>08/13/2018 16:15:52</publishTime>
+    </File>
+    <File Include="images/single-listing-03.jpg">
+      <publishTime>08/13/2018 16:15:52</publishTime>
+    </File>
+    <File Include="images/single-listing-03a.jpg">
+      <publishTime>08/13/2018 16:15:53</publishTime>
+    </File>
+    <File Include="images/single-listing-04.jpg">
+      <publishTime>08/13/2018 16:15:53</publishTime>
+    </File>
+    <File Include="images/single-listing-04a.jpg">
+      <publishTime>08/13/2018 16:15:54</publishTime>
+    </File>
+    <File Include="images/slider-bg-01.jpg">
+      <publishTime>08/13/2018 16:15:55</publishTime>
+    </File>
+    <File Include="images/slider-bg-02.jpg">
+      <publishTime>08/13/2018 16:15:55</publishTime>
+    </File>
+    <File Include="images/user-avatar.jpg">
+      <publishTime>08/13/2018 16:15:56</publishTime>
+    </File>
+    <File Include="images/user-profile-avatar.jpg">
+      <publishTime>08/13/2018 16:15:56</publishTime>
+    </File>
+    <File Include="listeo/css/assets/coloredbg.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/assets/gridtile.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/assets/gridtile_3x3.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/assets/gridtile_3x3_white.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/assets/gridtile_white.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/bootstrap-grid.css">
+      <publishTime>08/14/2018 21:03:05</publishTime>
+    </File>
+    <File Include="listeo/css/colors/main.css">
+      <publishTime>08/14/2018 21:03:11</publishTime>
+    </File>
+    <File Include="listeo/css/icons.css">
+      <publishTime>08/14/2018 21:03:05</publishTime>
+    </File>
+    <File Include="listeo/css/img/loading.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/invoice.css">
+      <publishTime>08/14/2018 21:03:05</publishTime>
+    </File>
+    <File Include="listeo/css/plugins/closedhand.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/plugins/openhand.html">
+      <publishTime>08/21/2018 14:55:57</publishTime>
+    </File>
+    <File Include="listeo/css/plugins/revolutionslider.css">
+      <publishTime>08/14/2018 21:03:15</publishTime>
+    </File>
+    <File Include="listeo/css/style.css">
+      <publishTime>08/14/2018 21:03:07</publishTime>
+    </File>
+    <File Include="listeo/dashboard-add-listing.html">
+      <publishTime>08/14/2018 20:45:23</publishTime>
+    </File>
+    <File Include="listeo/dashboard-bookings.html">
+      <publishTime>08/26/2018 15:19:42</publishTime>
+    </File>
+    <File Include="listeo/dashboard-bookmarks.html">
+      <publishTime>08/13/2018 16:14:39</publishTime>
+    </File>
+    <File Include="listeo/dashboard-invoice.html">
+      <publishTime>08/13/2018 16:14:39</publishTime>
+    </File>
+    <File Include="listeo/dashboard-messages-conversation.html">
+      <publishTime>08/13/2018 16:14:40</publishTime>
+    </File>
+    <File Include="listeo/dashboard-messages.html">
+      <publishTime>08/14/2018 20:45:23</publishTime>
+    </File>
+    <File Include="listeo/dashboard-my-listings.html">
+      <publishTime>08/13/2018 16:14:40</publishTime>
+    </File>
+    <File Include="listeo/dashboard-my-profile.html">
+      <publishTime>08/13/2018 16:14:41</publishTime>
+    </File>
+    <File Include="listeo/dashboard-reviews.html">
+      <publishTime>08/13/2018 16:14:41</publishTime>
+    </File>
+    <File Include="listeo/dashboard.html">
+      <publishTime>08/13/2018 16:14:42</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontawesome-webfont5b62.eot">
+      <publishTime>08/13/2018 16:15:03</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontawesome-webfont5b62.html">
+      <publishTime>08/21/2018 14:55:41</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontawesome-webfont5b62.svg">
+      <publishTime>08/13/2018 16:15:03</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontawesome-webfont5b62.ttf">
+      <publishTime>08/13/2018 16:15:04</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontawesome-webfont5b62.woff">
+      <publishTime>08/13/2018 16:15:04</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontawesome-webfontd41d.eot">
+      <publishTime>08/13/2018 16:15:03</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontello.eot">
+      <publishTime>08/13/2018 16:15:05</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontello.svg">
+      <publishTime>08/13/2018 16:15:06</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontello.ttf">
+      <publishTime>08/13/2018 16:15:06</publishTime>
+    </File>
+    <File Include="listeo/fonts/fontello.woff">
+      <publishTime>08/13/2018 16:15:07</publishTime>
+    </File>
+    <File Include="listeo/fonts/iconsmindca27.eot">
+      <publishTime>08/13/2018 16:15:09</publishTime>
+    </File>
+    <File Include="listeo/fonts/iconsmindca27.svg">
+      <publishTime>08/13/2018 16:15:12</publishTime>
+    </File>
+    <File Include="listeo/fonts/iconsmindca27.ttf">
+      <publishTime>08/13/2018 16:15:14</publishTime>
+    </File>
+    <File Include="listeo/fonts/iconsmindca27.woff">
+      <publishTime>08/13/2018 16:15:15</publishTime>
+    </File>
+    <File Include="listeo/fonts/iconsmindd41d.eot">
+      <publishTime>08/13/2018 16:15:09</publishTime>
+    </File>
+    <File Include="listeo/fonts/simple-line-iconsc05f.eot">
+      <publishTime>08/13/2018 16:15:15</publishTime>
+    </File>
+    <File Include="listeo/fonts/simple-line-iconsc05f.svg">
+      <publishTime>08/13/2018 16:15:16</publishTime>
+    </File>
+    <File Include="listeo/fonts/simple-line-iconsc05f.ttf">
+      <publishTime>08/13/2018 16:15:16</publishTime>
+    </File>
+    <File Include="listeo/fonts/simple-line-iconsc05f.woff">
+      <publishTime>08/13/2018 16:15:17</publishTime>
+    </File>
+    <File Include="listeo/images/blog-compact-post-01.jpg">
+      <publishTime>08/13/2018 16:15:19</publishTime>
+    </File>
+    <File Include="listeo/images/blog-compact-post-02.jpg">
+      <publishTime>08/13/2018 16:15:19</publishTime>
+    </File>
+    <File Include="listeo/images/blog-compact-post-03.jpg">
+      <publishTime>08/13/2018 16:15:20</publishTime>
+    </File>
+    <File Include="listeo/images/blog-post-01.jpg">
+      <publishTime>08/13/2018 16:15:20</publishTime>
+    </File>
+    <File Include="listeo/images/blog-post-02.jpg">
+      <publishTime>08/13/2018 16:15:21</publishTime>
+    </File>
+    <File Include="listeo/images/blog-post-03.jpg">
+      <publishTime>08/13/2018 16:15:22</publishTime>
+    </File>
+    <File Include="listeo/images/blog-widget-01.jpg">
+      <publishTime>08/13/2018 16:15:22</publishTime>
+    </File>
+    <File Include="listeo/images/blog-widget-02.jpg">
+      <publishTime>08/13/2018 16:15:22</publishTime>
+    </File>
+    <File Include="listeo/images/blog-widget-03.jpg">
+      <publishTime>08/13/2018 16:15:23</publishTime>
+    </File>
+    <File Include="listeo/images/category-box-01.jpg">
+      <publishTime>08/13/2018 16:15:23</publishTime>
+    </File>
+    <File Include="listeo/images/category-box-02.jpg">
+      <publishTime>08/13/2018 16:15:24</publishTime>
+    </File>
+    <File Include="listeo/images/category-box-03.jpg">
+      <publishTime>08/13/2018 16:15:24</publishTime>
+    </File>
+    <File Include="listeo/images/category-box-04.jpg">
+      <publishTime>08/13/2018 16:15:25</publishTime>
+    </File>
+    <File Include="listeo/images/category-box-05.jpg">
+      <publishTime>08/13/2018 16:15:26</publishTime>
+    </File>
+    <File Include="listeo/images/category-box-06.jpg">
+      <publishTime>08/13/2018 16:15:27</publishTime>
+    </File>
+    <File Include="listeo/images/dashboard-avatar.jpg">
+      <publishTime>08/13/2018 16:15:26</publishTime>
+    </File>
+    <File Include="listeo/images/happy-client-01.jpg">
+      <publishTime>08/13/2018 16:15:27</publishTime>
+    </File>
+    <File Include="listeo/images/happy-client-02.jpg">
+      <publishTime>08/13/2018 16:15:27</publishTime>
+    </File>
+    <File Include="listeo/images/happy-client-03.jpg">
+      <publishTime>08/13/2018 16:15:28</publishTime>
+    </File>
+    <File Include="listeo/images/listing-item-01.jpg">
+      <publishTime>08/13/2018 16:15:28</publishTime>
+    </File>
+    <File Include="listeo/images/listing-item-02.jpg">
+      <publishTime>08/13/2018 16:15:30</publishTime>
+    </File>
+    <File Include="listeo/images/listing-item-03.jpg">
+      <publishTime>08/13/2018 16:15:32</publishTime>
+    </File>
+    <File Include="listeo/images/listing-item-04.jpg">
+      <publishTime>08/13/2018 16:15:33</publishTime>
+    </File>
+    <File Include="listeo/images/listing-item-05.jpg">
+      <publishTime>08/13/2018 16:15:34</publishTime>
+    </File>
+    <File Include="listeo/images/listing-item-06.jpg">
+      <publishTime>08/13/2018 16:15:36</publishTime>
+    </File>
+    <File Include="listeo/images/logo-01.png">
+      <publishTime>08/13/2018 16:15:37</publishTime>
+    </File>
+    <File Include="listeo/images/logo-02.png">
+      <publishTime>08/13/2018 16:15:38</publishTime>
+    </File>
+    <File Include="listeo/images/logo-03.png">
+      <publishTime>08/13/2018 16:15:38</publishTime>
+    </File>
+    <File Include="listeo/images/logo-04.png">
+      <publishTime>08/13/2018 16:15:38</publishTime>
+    </File>
+    <File Include="listeo/images/logo-05.png">
+      <publishTime>08/13/2018 16:15:39</publishTime>
+    </File>
+    <File Include="listeo/images/logo-06.png">
+      <publishTime>08/13/2018 16:15:39</publishTime>
+    </File>
+    <File Include="listeo/images/logo-07.png">
+      <publishTime>08/13/2018 16:15:40</publishTime>
+    </File>
+    <File Include="listeo/images/logo.png">
+      <publishTime>08/13/2018 16:15:40</publishTime>
+    </File>
+    <File Include="listeo/images/logo2.png">
+      <publishTime>08/13/2018 16:15:41</publishTime>
+    </File>
+    <File Include="listeo/images/main-search-background-01.jpg">
+      <publishTime>08/13/2018 16:15:42</publishTime>
+    </File>
+    <File Include="listeo/images/main-search-video-poster.jpg">
+      <publishTime>08/13/2018 16:15:42</publishTime>
+    </File>
+    <File Include="listeo/images/main-search-video.mp4">
+      <publishTime>08/13/2018 16:15:46</publishTime>
+    </File>
+    <File Include="listeo/images/our-office.jpg">
+      <publishTime>08/13/2018 16:15:43</publishTime>
+    </File>
+    <File Include="listeo/images/plus-icon.svg">
+      <publishTime>08/13/2018 16:15:44</publishTime>
+    </File>
+    <File Include="listeo/images/popular-location-01.jpg">
+      <publishTime>08/13/2018 16:15:45</publishTime>
+    </File>
+    <File Include="listeo/images/popular-location-02.jpg">
+      <publishTime>08/13/2018 16:15:46</publishTime>
+    </File>
+    <File Include="listeo/images/popular-location-03.jpg">
+      <publishTime>08/13/2018 16:15:47</publishTime>
+    </File>
+    <File Include="listeo/images/popular-location-04.jpg">
+      <publishTime>08/13/2018 16:15:48</publishTime>
+    </File>
+    <File Include="listeo/images/review-image-01.jpg">
+      <publishTime>08/13/2018 16:15:48</publishTime>
+    </File>
+    <File Include="listeo/images/review-image-02.jpg">
+      <publishTime>08/13/2018 16:15:49</publishTime>
+    </File>
+    <File Include="listeo/images/review-image-03.jpg">
+      <publishTime>08/13/2018 16:15:49</publishTime>
+    </File>
+    <File Include="listeo/images/reviews-avatar.jpg">
+      <publishTime>08/13/2018 16:15:49</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-01.jpg">
+      <publishTime>08/13/2018 16:15:50</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-01a.jpg">
+      <publishTime>08/13/2018 16:15:51</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-02.jpg">
+      <publishTime>08/13/2018 16:15:51</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-02a.jpg">
+      <publishTime>08/13/2018 16:15:52</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-03.jpg">
+      <publishTime>08/13/2018 16:15:52</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-03a.jpg">
+      <publishTime>08/13/2018 16:15:53</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-04.jpg">
+      <publishTime>08/13/2018 16:15:53</publishTime>
+    </File>
+    <File Include="listeo/images/single-listing-04a.jpg">
+      <publishTime>08/13/2018 16:15:54</publishTime>
+    </File>
+    <File Include="listeo/images/slider-bg-01.jpg">
+      <publishTime>08/13/2018 16:15:55</publishTime>
+    </File>
+    <File Include="listeo/images/slider-bg-02.jpg">
+      <publishTime>08/13/2018 16:15:55</publishTime>
+    </File>
+    <File Include="listeo/images/user-avatar.jpg">
+      <publishTime>08/13/2018 16:15:56</publishTime>
+    </File>
+    <File Include="listeo/images/user-profile-avatar.jpg">
+      <publishTime>08/13/2018 16:15:56</publishTime>
+    </File>
+    <File Include="listeo/index-2.html">
+      <publishTime>08/13/2018 16:14:43</publishTime>
+    </File>
+    <File Include="listeo/index-3.html">
+      <publishTime>08/13/2018 16:14:42</publishTime>
+    </File>
+    <File Include="listeo/index-4.html">
+      <publishTime>08/13/2018 16:14:43</publishTime>
+    </File>
+    <File Include="listeo/index-5.html">
+      <publishTime>08/13/2018 16:14:43</publishTime>
+    </File>
+    <File Include="listeo/index.html">
+      <publishTime>08/13/2018 16:14:43</publishTime>
+    </File>
+    <File Include="listeo/listings-grid-full-width-with-map.html">
+      <publishTime>08/13/2018 16:14:44</publishTime>
+    </File>
+    <File Include="listeo/listings-grid-full-width.html">
+      <publishTime>08/13/2018 16:14:45</publishTime>
+    </File>
+    <File Include="listeo/listings-grid-with-sidebar-1.html">
+      <publishTime>08/13/2018 16:14:45</publishTime>
+    </File>
+    <File Include="listeo/listings-grid-with-sidebar-2.html">
+      <publishTime>08/13/2018 16:14:46</publishTime>
+    </File>
+    <File Include="listeo/listings-half-screen-map-grid-1.html">
+      <publishTime>08/13/2018 16:14:46</publishTime>
+    </File>
+    <File Include="listeo/listings-half-screen-map-grid-2.html">
+      <publishTime>08/13/2018 16:14:47</publishTime>
+    </File>
+    <File Include="listeo/listings-half-screen-map-list.html">
+      <publishTime>08/13/2018 16:14:47</publishTime>
+    </File>
+    <File Include="listeo/listings-list-full-width-with-map.html">
+      <publishTime>08/13/2018 16:14:48</publishTime>
+    </File>
+    <File Include="listeo/listings-list-full-width.html">
+      <publishTime>08/13/2018 16:14:48</publishTime>
+    </File>
+    <File Include="listeo/listings-list-with-sidebar.html">
+      <publishTime>08/13/2018 16:14:48</publishTime>
+    </File>
+    <File Include="listeo/listings-single-page-2.html">
+      <publishTime>08/14/2018 00:22:52</publishTime>
+    </File>
+    <File Include="listeo/listings-single-page.html">
+      <publishTime>08/14/2018 00:22:52</publishTime>
+    </File>
+    <File Include="listeo/pages-404.html">
+      <publishTime>08/13/2018 16:14:49</publishTime>
+    </File>
+    <File Include="listeo/pages-add-listing.html">
+      <publishTime>08/13/2018 16:14:50</publishTime>
+    </File>
+    <File Include="listeo/pages-blog-post.html">
+      <publishTime>08/13/2018 16:14:50</publishTime>
+    </File>
+    <File Include="listeo/pages-blog.html">
+      <publishTime>08/13/2018 16:14:51</publishTime>
+    </File>
+    <File Include="listeo/pages-booking-confirmation.html">
+      <publishTime>08/13/2018 16:14:51</publishTime>
+    </File>
+    <File Include="listeo/pages-booking.html">
+      <publishTime>08/13/2018 16:14:52</publishTime>
+    </File>
+    <File Include="listeo/pages-coming-soon.html">
+      <publishTime>08/13/2018 16:14:52</publishTime>
+    </File>
+    <File Include="listeo/pages-contact.html">
+      <publishTime>08/13/2018 16:14:52</publishTime>
+    </File>
+    <File Include="listeo/pages-elements.html">
+      <publishTime>08/13/2018 16:14:53</publishTime>
+    </File>
+    <File Include="listeo/pages-icons.html">
+      <publishTime>08/13/2018 16:14:54</publishTime>
+    </File>
+    <File Include="listeo/pages-masonry-filtering.html">
+      <publishTime>08/13/2018 16:14:53</publishTime>
+    </File>
+    <File Include="listeo/pages-pages-blog-post.html">
+      <publishTime>08/21/2018 14:55:41</publishTime>
+    </File>
+    <File Include="listeo/pages-pricing-tables.html">
+      <publishTime>08/13/2018 16:14:54</publishTime>
+    </File>
+    <File Include="listeo/pages-typography.html">
+      <publishTime>08/13/2018 16:14:55</publishTime>
+    </File>
+    <File Include="listeo/pages-user-profile.html">
+      <publishTime>08/13/2018 16:14:55</publishTime>
+    </File>
+    <File Include="listeo/scripts/chosen.min.js">
+      <publishTime>08/14/2018 20:53:47</publishTime>
+    </File>
+    <File Include="listeo/scripts/counterup.min.js">
+      <publishTime>08/14/2018 20:53:47</publishTime>
+    </File>
+    <File Include="listeo/scripts/custom.js">
+      <publishTime>08/14/2018 20:53:48</publishTime>
+    </File>
+    <File Include="listeo/scripts/daterangepicker.js">
+      <publishTime>08/14/2018 20:53:48</publishTime>
+    </File>
+    <File Include="listeo/scripts/dropzone.js">
+      <publishTime>08/14/2018 20:53:49</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.actions.min.js">
+      <publishTime>08/14/2018 20:53:59</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.carousel.min.js">
+      <publishTime>08/14/2018 20:53:59</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.kenburn.min.js">
+      <publishTime>08/14/2018 20:53:59</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.layeranimation.min.js">
+      <publishTime>08/14/2018 20:54:00</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.migration.min.js">
+      <publishTime>08/14/2018 20:54:00</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.navigation.min.js">
+      <publishTime>08/14/2018 20:54:01</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.parallax.min.js">
+      <publishTime>08/14/2018 20:54:01</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.slideanims.min.js">
+      <publishTime>08/14/2018 20:54:01</publishTime>
+    </File>
+    <File Include="listeo/scripts/extensions/revolution.extension.video.min.js">
+      <publishTime>08/14/2018 20:54:02</publishTime>
+    </File>
+    <File Include="listeo/scripts/infobox.min.js">
+      <publishTime>08/14/2018 20:53:49</publishTime>
+    </File>
+    <File Include="listeo/scripts/isotope.min.js">
+      <publishTime>08/14/2018 20:53:50</publishTime>
+    </File>
+    <File Include="listeo/scripts/jquery-2.2.0.min.js">
+      <publishTime>08/14/2018 20:53:51</publishTime>
+    </File>
+    <File Include="listeo/scripts/jquery-ui.min.js">
+      <publishTime>08/14/2018 20:53:50</publishTime>
+    </File>
+    <File Include="listeo/scripts/jquery.countdown.min.js">
+      <publishTime>08/14/2018 20:53:51</publishTime>
+    </File>
+    <File Include="listeo/scripts/magnific-popup.min.js">
+      <publishTime>08/14/2018 20:53:51</publishTime>
+    </File>
+    <File Include="listeo/scripts/maps.js">
+      <publishTime>08/14/2018 20:53:52</publishTime>
+    </File>
+    <File Include="listeo/scripts/markerclusterer.js">
+      <publishTime>08/14/2018 20:53:52</publishTime>
+    </File>
+    <File Include="listeo/scripts/mmenu.min.js">
+      <publishTime>08/14/2018 20:53:53</publishTime>
+    </File>
+    <File Include="listeo/scripts/moment.min.js">
+      <publishTime>08/14/2018 20:53:53</publishTime>
+    </File>
+    <File Include="listeo/scripts/quantityButtons.js">
+      <publishTime>08/14/2018 20:53:54</publishTime>
+    </File>
+    <File Include="listeo/scripts/rangeslider.min.js">
+      <publishTime>08/14/2018 20:53:54</publishTime>
+    </File>
+    <File Include="listeo/scripts/slick.min.js">
+      <publishTime>08/14/2018 20:53:54</publishTime>
+    </File>
+    <File Include="listeo/scripts/switcher.js">
+      <publishTime>08/14/2018 20:53:55</publishTime>
+    </File>
+    <File Include="listeo/scripts/themepunch.revolution.min.js">
+      <publishTime>08/14/2018 20:53:56</publishTime>
+    </File>
+    <File Include="listeo/scripts/themepunch.tools.min.js">
+      <publishTime>08/14/2018 20:53:56</publishTime>
+    </File>
+    <File Include="listeo/scripts/tooltips.min.js">
+      <publishTime>08/14/2018 20:53:56</publishTime>
+    </File>
+    <File Include="listeo/scripts/waypoints.min.js">
+      <publishTime>08/14/2018 20:53:57</publishTime>
+    </File>
+    <File Include="master.Master">
+      <publishTime>09/12/2019 16:38:50</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/25/2018 15:54:13</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>09/12/2019 17:08:09</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>10/06/2018 06:28:14</publishTime>
+    </File>
+    <File Include="Rooms-List.aspx">
+      <publishTime>09/18/2018 08:59:09</publishTime>
+    </File>
+    <File Include="Rooms.aspx">
+      <publishTime>10/06/2018 07:02:46</publishTime>
+    </File>
+    <File Include="Scrap.aspx">
+      <publishTime>09/25/2018 16:08:15</publishTime>
+    </File>
+    <File Include="scripts/chosen.min.js">
+      <publishTime>08/14/2018 20:53:47</publishTime>
+    </File>
+    <File Include="scripts/counterup.min.js">
+      <publishTime>08/14/2018 20:53:47</publishTime>
+    </File>
+    <File Include="scripts/custom.js">
+      <publishTime>08/14/2018 20:53:48</publishTime>
+    </File>
+    <File Include="scripts/daterangepicker.js">
+      <publishTime>08/14/2018 20:53:48</publishTime>
+    </File>
+    <File Include="scripts/dropzone.js">
+      <publishTime>08/14/2018 20:53:49</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.actions.min.js">
+      <publishTime>08/14/2018 20:53:59</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.carousel.min.js">
+      <publishTime>08/14/2018 20:53:59</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.kenburn.min.js">
+      <publishTime>08/14/2018 20:53:59</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.layeranimation.min.js">
+      <publishTime>08/14/2018 20:54:00</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.migration.min.js">
+      <publishTime>08/14/2018 20:54:00</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.navigation.min.js">
+      <publishTime>08/14/2018 20:54:01</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.parallax.min.js">
+      <publishTime>08/14/2018 20:54:01</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.slideanims.min.js">
+      <publishTime>08/14/2018 20:54:01</publishTime>
+    </File>
+    <File Include="scripts/extensions/revolution.extension.video.min.js">
+      <publishTime>08/14/2018 20:54:02</publishTime>
+    </File>
+    <File Include="scripts/infobox.min.js">
+      <publishTime>08/14/2018 20:53:49</publishTime>
+    </File>
+    <File Include="scripts/isotope.min.js">
+      <publishTime>08/14/2018 20:53:50</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.4.1.js">
+      <publishTime>08/25/2018 04:57:31</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.4.1.min.js">
+      <publishTime>08/25/2018 04:57:31</publishTime>
+    </File>
+    <File Include="scripts/jquery-2.2.0.min.js">
+      <publishTime>08/14/2018 20:53:51</publishTime>
+    </File>
+    <File Include="scripts/jquery-ui.min.js">
+      <publishTime>08/14/2018 20:53:50</publishTime>
+    </File>
+    <File Include="scripts/jquery.countdown.min.js">
+      <publishTime>08/14/2018 20:53:51</publishTime>
+    </File>
+    <File Include="scripts/jquery.daterangepicker/date-en-US.js">
+      <publishTime>08/25/2018 04:57:32</publishTime>
+    </File>
+    <File Include="scripts/jquery.daterangepicker/date.js">
+      <publishTime>08/25/2018 04:57:32</publishTime>
+    </File>
+    <File Include="scripts/jquery.daterangepicker/daterangepicker.jQuery.js">
+      <publishTime>08/25/2018 04:57:32</publishTime>
+    </File>
+    <File Include="scripts/jquery.daterangepicker/time.js">
+      <publishTime>08/25/2018 04:57:32</publishTime>
+    </File>
+    <File Include="scripts/magnific-popup.min.js">
+      <publishTime>08/14/2018 20:53:51</publishTime>
+    </File>
+    <File Include="scripts/maps.js">
+      <publishTime>08/14/2018 20:53:52</publishTime>
+    </File>
+    <File Include="scripts/markerclusterer.js">
+      <publishTime>08/14/2018 20:53:52</publishTime>
+    </File>
+    <File Include="scripts/mmenu.min.js">
+      <publishTime>08/14/2018 20:53:53</publishTime>
+    </File>
+    <File Include="scripts/moment.min.js">
+      <publishTime>08/14/2018 20:53:53</publishTime>
+    </File>
+    <File Include="scripts/quantityButtons.js">
+      <publishTime>08/14/2018 20:53:54</publishTime>
+    </File>
+    <File Include="scripts/rangeslider.min.js">
+      <publishTime>08/14/2018 20:53:54</publishTime>
+    </File>
+    <File Include="scripts/slick.min.js">
+      <publishTime>08/14/2018 20:53:54</publishTime>
+    </File>
+    <File Include="scripts/switcher.js">
+      <publishTime>08/14/2018 20:53:55</publishTime>
+    </File>
+    <File Include="scripts/themepunch.revolution.min.js">
+      <publishTime>08/14/2018 20:53:56</publishTime>
+    </File>
+    <File Include="scripts/themepunch.tools.min.js">
+      <publishTime>08/14/2018 20:53:56</publishTime>
+    </File>
+    <File Include="scripts/tooltips.min.js">
+      <publishTime>08/14/2018 20:53:56</publishTime>
+    </File>
+    <File Include="scripts/waypoints.min.js">
+      <publishTime>08/14/2018 20:53:57</publishTime>
+    </File>
+    <File Include="Veera.asmx">
+      <publishTime>09/22/2018 05:24:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/12/2019 17:08:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
